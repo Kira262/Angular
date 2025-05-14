@@ -48,8 +48,4 @@ export class ServerStatusComponent implements OnInit {
   ngAfterViewInit() {
     console.log('AFTER VIEW INIT');
   }
-
-  // ngOnDestroy() {
-  //   clearTimeout(this.interval);
-  // }
 }
