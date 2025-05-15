@@ -47,4 +47,8 @@ export class TaskItemComponent {
 
     this.tasksService.updateTaskStatus(taskId, newStatus);
   }
+
+  onDeleteTask() {
+    this.tasksService.removeTask(this.task().id);
+  }
 }

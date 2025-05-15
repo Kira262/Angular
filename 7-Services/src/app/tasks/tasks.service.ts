@@ -30,4 +30,9 @@ export class TasksService {
     );
     this.loggingService.log('CHANGE TASK STATUS TO ' + newStatus);
   }
+
+  removeTask(taskId: string) {
+    this.tasks.update((oldTasks) => oldTasks.filter((task) => task.id !== taskId));
+    this.loggingService.log('REMOVED TASK WITH ID ' + taskId);
+  }
 }
