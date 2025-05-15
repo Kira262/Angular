@@ -78,6 +78,16 @@
 
 ---
 
+### ⚡ <span style="color:#F59E42"><b>ChangeDetection Mastery</b></span>
+
+> <i>Unlock Angular's change detection secrets!</i>
+
+- ⚡ Explore default & OnPush strategies
+- 🔍 Visualize change detection cycles
+- 🚀 Performance optimization tips
+
+---
+
 ## 🚀 Getting Started
 
 1. <b>Pick a project folder:</b>
@@ -88,6 +98,7 @@
    - <code>cd 5-Directives</code>
    - <code>cd 6-Pipes</code>
    - <code>cd 7-Services</code>
+   - <code>cd 8-ChangeDetection</code>
 2. <b>Install dependencies:</b>
    <pre>npm install</pre>
 3. <b>Run the app:</b>
