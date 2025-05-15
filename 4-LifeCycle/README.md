@@ -1,21 +1,21 @@
-<h1 align="center">🔃 LifeCycle Explorer</h1>
+<h1 align="center">🔃 <span style="color:#F59E42">LifeCycle Explorer</span></h1>
 
 <p align="center">
-  <b>Deep dive into Angular component lifecycle hooks!<br>Visualize, experiment, and master Angular's core concepts.</b>
+  <b>🔬 Deep dive into Angular component lifecycle hooks!<br>Visualize, experiment, and master Angular's core concepts.</b>
 </p>
 
 ---
 
 ## ✨ Features
 
-- 🔬 Explore Angular lifecycle hooks in action
-- 🧩 Modular component structure
-- 📈 Real-time updates and visual feedback
-- 💡 Perfect for learning and demos
+- 🔬 <b>Explore Angular lifecycle hooks in action</b>
+- 🧩 <b>Modular component structure</b>
+- 📈 <b>Real-time updates and visual feedback</b>
+- 💡 <b>Perfect for learning and demos</b>
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
 1. <b>Install dependencies:</b>
    <pre>npm install</pre>

@@ -8,7 +8,7 @@
 
 ## 📦 Projects Overview
 
-### <img src="1-EasyTask/src/assets/task-management-logo.png" width="28" style="vertical-align:middle;"/> <b>EasyTask</b>
+### <img src="1-EasyTask/src/assets/task-management-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#7C3AED"><b>EasyTask</b></span>
 
 > <i>A simple, stylish task manager</i>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### <img src="2-InvestmentCalculator/public/investment-calculator-logo.png" width="28" style="vertical-align:middle;"/> <b>Investment Calculator</b>
+### <img src="2-InvestmentCalculator/public/investment-calculator-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#059669"><b>Investment Calculator</b></span>
 
 > <i>Visualize your investment growth!</i>
 
@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="3-Components/public/logo.png" width="28" style="vertical-align:middle;"/> <b>CMP Dashboard</b>
+### <img src="3-Components/public/logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#3B82F6"><b>CMP Dashboard</b></span>
 
 > <i>Your control center for servers, tickets, and traffic</i>
 
@@ -38,13 +38,23 @@
 
 ---
 
-### 🔃 <b>LifeCycle Explorer</b>
+### 🔃 <span style="color:#F59E42"><b>LifeCycle Explorer</b></span>
 
 > <i>Deep dive into Angular component lifecycle hooks</i>
 
 - 🔬 Explore Angular lifecycle hooks in action
 - 🧩 Modular component structure
 - 📈 Real-time updates and visual feedback
+
+---
+
+### 🏷️ <span style="color:#A21CAF"><b>Directives Playground</b></span>
+
+> <i>Master custom Angular directives with hands-on demos</i>
+
+- 🏷️ Custom attribute and structural directives
+- 🔒 Safe link directive for secure navigation
+- 📝 Logging directive for debugging
 
 ---
 
@@ -55,6 +65,7 @@
    - <code>cd 2-InvestmentCalculator</code>
    - <code>cd 3-Components</code>
    - <code>cd 4-LifeCycle</code>
+   - <code>cd 5-Directives</code>
 2. <b>Install dependencies:</b>
    <pre>npm install</pre>
 3. <b>Run the app:</b>
@@ -64,13 +75,6 @@
 
 ---
 
-## 📚 Resources
-
-- [Angular Documentation](https://angular.io/)
-- [Course Slides](other-resources/angular-course-slides.pdf)
-
----
-
 <p align="center">
-  <b>✨ Happy Coding! ✨</b>
+  <b>🌈 Explore. Build. Master Angular!</b>
 </p>

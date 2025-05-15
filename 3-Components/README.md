@@ -1,21 +1,21 @@
-<h1 align="center"><img src="public/logo.png" width="32" style="vertical-align:middle;"/> CMP Dashboard</h1>
+<h1 align="center"><img src="public/logo.png" width="40" style="vertical-align:middle;"/> <span style="color:#3B82F6">CMP Dashboard</span></h1>
 
 <p align="center">
-  <b>Your modern Angular dashboard for monitoring servers, tickets, and traffic!</b>
+  <b>🖥️ Your modern Angular dashboard for monitoring servers, tickets, and traffic!</b>
 </p>
 
 ---
 
 ## ✨ Features
-- 🖥️ Server status monitoring
-- 🎫 Ticket management
-- 📈 Traffic analytics
-- 🧩 Modular, scalable architecture
-- 🏷️ Custom header and navigation
+- 🖥️ <b>Server status monitoring</b>
+- 🎫 <b>Ticket management</b>
+- 📈 <b>Traffic analytics</b>
+- 🧩 <b>Modular, scalable architecture</b>
+- 🏷️ <b>Custom header and navigation</b>
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 1. <b>Install dependencies:</b>
    <pre>npm install</pre>
 2. <b>Run the app:</b>
@@ -27,20 +27,21 @@
 
 ---
 
-## 🏗️ Key Modules
-- <code>src/app/dashboard/server-status/</code> – Server health
-- <code>src/app/dashboard/tickets/</code> – Ticketing system
-- <code>src/app/dashboard/traffic/</code> – Traffic stats
+## 🗂️ Project Structure
+- <code>src/app/dashboard/</code> – Dashboard features
+- <code>src/app/header/</code> – App header & navigation
+- <code>src/app/shared/</code> – Shared UI components
 - <code>public/</code> – App icons and images
 
 ---
 
 ## 📚 Learn More
+- [Angular CLI Docs](https://angular.io/cli)
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../other-resources/angular-course-slides.pdf)
 
 ---
 
 <p align="center">
-  <b>🌟 Enjoy building with Angular! 🌟</b>
+  <b>📊 Monitor. Manage. Master Angular!</b>
 </p>
