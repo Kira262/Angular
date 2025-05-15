@@ -58,6 +58,17 @@
 
 ---
 
+### <img src="6-Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/> <span style="color:#0EA5E9"><b>Pipes Deep Dive</b></span>
+
+> <i>Transform, filter, and format data with Angular pipes!</i>
+
+- 🧪 Custom & built-in pipes in action
+- 🔢 Data transformation demos
+- 🎨 Beautiful, interactive UI
+- ⚡ Real-time filtering & formatting
+
+---
+
 ## 🚀 Getting Started
 
 1. <b>Pick a project folder:</b>
@@ -66,6 +77,7 @@
    - <code>cd 3-Components</code>
    - <code>cd 4-LifeCycle</code>
    - <code>cd 5-Directives</code>
+   - <code>cd 6-Pipes</code>
 2. <b>Install dependencies:</b>
    <pre>npm install</pre>
 3. <b>Run the app:</b>
