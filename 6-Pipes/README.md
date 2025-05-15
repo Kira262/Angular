@@ -1,17 +1,16 @@
-<h1 align="center"><img src="public/temp-icon.png" width="40" style="vertical-align:middle;"/> <span style="color:#0EA5E9">Pipes Deep Dive</span></h1>
+<h1 align="center">🧪 <span style="color:#F43F5E">Pipes Lab</span></h1>
 
 <p align="center">
-  <b>🧪 Transform, filter, and format data with Angular pipes!<br>See your data shine in real time.</b>
+  <b>🔤 Transform and format data with custom Angular pipes!<br>Experiment, visualize, and master data transformation in style.</b>
 </p>
 
 ---
 
 ## ✨ Features
 
-- 🧪 <b>Custom & built-in pipes in action</b>
-- 🔢 <b>Data transformation demos</b>
-- 🎨 <b>Beautiful, interactive UI</b>
-- ⚡ <b>Real-time filtering & formatting</b>
+- 🧪 <b>Custom and built-in pipes</b>
+- 🔤 <b>Data formatting and transformation</b>
+- ⚡ <b>Real-time display updates</b>
 - 🧩 <b>Modular, clean code structure</b>
 
 ---
@@ -31,8 +30,8 @@
 
 ## 🗂️ Project Structure
 
-- <code>src/app/sort.pipe.ts</code> – Custom sort pipe
-- <code>src/app/</code> – Pipe demos & components
+- <code>src/app/pipes/</code> – Custom and built-in pipes
+- <code>src/app/shared/</code> – Shared utilities
 - <code>public/</code> – App icons and images
 
 ---
@@ -46,5 +45,5 @@
 ---
 
 <p align="center">
-  <b>🧪 Experiment. Transform. Enjoy Pipes!</b>
+  <b>🧪 Transform. Format. Shine with Angular Pipes!</b>
 </p>

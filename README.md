@@ -58,14 +58,23 @@
 
 ---
 
-### <img src="6-Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/> <span style="color:#0EA5E9"><b>Pipes Deep Dive</b></span>
+### <img src="6-Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/> <span style="color:#F43F5E"><b>Pipes Lab</b></span>
 
-> <i>Transform, filter, and format data with Angular pipes!</i>
+> <i>Transform and format data with custom Angular pipes</i>
 
-- 🧪 Custom & built-in pipes in action
-- 🔢 Data transformation demos
-- 🎨 Beautiful, interactive UI
-- ⚡ Real-time filtering & formatting
+- 🧪 Custom and built-in pipes
+- 🔤 Data formatting and transformation
+- ⚡ Real-time display updates
+
+---
+
+### 🔗 <span style="color:#0EA5E9"><b>Services Central</b></span>
+
+> <i>Master Angular services, dependency injection, and data sharing</i>
+
+- 🔗 Reusable Angular services
+- 🔄 Dependency injection best practices
+- 📡 HTTP & API integration demos
 
 ---
 
@@ -78,6 +87,7 @@
    - <code>cd 4-LifeCycle</code>
    - <code>cd 5-Directives</code>
    - <code>cd 6-Pipes</code>
+   - <code>cd 7-Services</code>
 2. <b>Install dependencies:</b>
    <pre>npm install</pre>
 3. <b>Run the app:</b>
