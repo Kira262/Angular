@@ -42,3 +42,30 @@ button:hover {
   border-color: #bd56f1;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
 }
+
+.container {
+  max-width: 500px;
+  margin: 2rem auto;
+  background: rgba(40, 38, 44, 0.85);
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
+  padding: 2rem 2.5rem 2.5rem 2.5rem;
+}
+
+app-click-counter,
+app-interval-display,
+app-custom-interval {
+  display: block;
+  margin: 2rem 0;
+}
+
+app-click-counter button {
+  margin: 0 auto 1rem auto;
+  display: block;
+}
+
+app-custom-interval p {
+  font-size: 1.1rem;
+  color: #ffe6ff;
+  margin-top: 1rem;
+}
