@@ -39,11 +39,11 @@ export class AppComponent implements OnInit {
   });
   private destroyRef = inject(DestroyRef);
 
-  constructor() {
-    // effect(() => {
-    //   console.log(`Clicked button ${this.clickCount()} times.`);
-    // });
-  }
+  // constructor() {
+  //   effect(() => {
+  //     console.log(`Clicked button ${this.clickCount()} times.`);
+  //   });
+  // }
 
   ngOnInit(): void {
     // setInterval(() => {
