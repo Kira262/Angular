@@ -17,6 +17,7 @@
 - [Workspace Features](#-workspace-features)
 - [Project Directory](#️-project-directory)
 - [Getting Started](#-getting-started)
+- [Featured Course & Resources](#-featured-course--resources)
 - [Support & Resources](#-support--resources)
 - [Projects Overview](#-projects-overview)
 - [Contributing](#-contributing)
