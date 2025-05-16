@@ -88,6 +88,16 @@
 
 ---
 
+## 🎓 Featured Course & Resources
+
+Take your Angular skills to the next level with this highly recommended course and its official resources:
+
+- [Udemy: The Complete Guide to Angular (2024+)](https://www.udemy.com/course/the-complete-guide-to-angular-2/?couponCode=CP130525)  
+  <sub>By Maximilian Schwarzmüller – covers everything from basics to advanced topics, with hands-on projects.</sub>
+- [Official Course GitHub Repository](https://github.com/mschwarzmueller/angular-complete-guide-course-resources)
+
+---
+
 ## 📚 Support & Resources
 
 - 📄 [Angular Course Slides (PDF)](./other-resources/angular-course-slides.pdf)
