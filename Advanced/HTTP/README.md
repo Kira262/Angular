@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# HTTP & REST API Demo
+<h1 align="center"><img src="public/logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#F59E42">HTTP & REST API Demo</span></h1>
 
-Angular HTTP & REST API integration.
+<p align="center">
+  <b>🌐 Angular HTTP & REST API integration with a real backend.</b>
+</p>
 
 ---
 

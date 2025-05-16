@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# LifeCycle Explorer
+<h1 align="center">🔃 <span style="color:#F59E42">LifeCycle Explorer</span></h1>
 
-Deep dive into Angular component lifecycle hooks.
+<p align="center">
+  <b>🔬 Explore Angular component lifecycle hooks visually.</b>
+</p>
 
 ---
 

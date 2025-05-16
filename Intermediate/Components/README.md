@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# CMP Dashboard
+<h1 align="center"><img src="public/logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#3B82F6">CMP Dashboard</span></h1>
 
-Your modern Angular dashboard for monitoring servers, tickets, and traffic.
+<p align="center">
+  <b>📊 Monitor servers, tickets, and traffic in a modern dashboard.</b>
+</p>
 
 ---
 

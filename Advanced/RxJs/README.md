@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# RxJS Playground
+<h1 align="center"><img src="public/rxjs-logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#0EA5E9">RxJS Playground</span></h1>
 
-Reactive programming with RxJS.
+<p align="center">
+  <b>🔄 Reactive programming with RxJS: streams, operators, and more.</b>
+</p>
 
 ---
 

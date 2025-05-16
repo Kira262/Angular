@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# Services Central
+<h1 align="center">🔗 <span style="color:#0EA5E9">Services Central</span></h1>
 
-Master Angular services, dependency injection, and data sharing.
+<p align="center">
+  <b>🔗 Master Angular services, dependency injection, and data sharing.</b>
+</p>
 
 ---
 

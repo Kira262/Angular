@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# Investment Calculator
+<h1 align="center"><img src="public/investment-calculator-logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#059669">Investment Calculator</span></h1>
 
-Visualize your investment growth.
+<p align="center">
+  <b>💸 Visualize your investment growth with interactive charts.</b>
+</p>
 
 ---
 

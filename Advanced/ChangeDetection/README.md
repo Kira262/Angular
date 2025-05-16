@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# ChangeDetection Mastery
+<h1 align="center">⚡ <span style="color:#F59E42">ChangeDetection Mastery</span></h1>
 
-Unlock Angular's change detection secrets.
+<p align="center">
+  <b>⚡ Unlock Angular's change detection secrets with interactive demos.</b>
+</p>
 
 ---
 

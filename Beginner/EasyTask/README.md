@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# EasyTask
+<h1 align="center"><img src="src/assets/task-management-logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#7C3AED">EasyTask</span></h1>
 
-A simple, stylish task manager with user avatars.
+<p align="center">
+  <b>📝 Simple, stylish task manager with user avatars.</b>
+</p>
 
 ---
 

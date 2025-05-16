@@ -1,8 +1,10 @@
 [⬅️ Back to main workspace](../../README.md)
 
-# Directives Playground
+<h1 align="center">🏷️ <span style="color:#A21CAF">Directives Playground</span></h1>
 
-Master custom Angular directives with hands-on demos.
+<p align="center">
+  <b>🏷️ Master custom Angular directives with hands-on demos.</b>
+</p>
 
 ---
 
