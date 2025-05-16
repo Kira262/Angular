@@ -8,15 +8,11 @@
 ---
 
 ## Table of Contents
-
 - [What’s Inside?](#-whats-inside)
 - [Badges & Status](#-badges--status)
 - [Project Details](#-project-details)
 - [Getting Started](#-getting-started)
-- [Requirements](#-requirements)
-- [Why This Workspace?](#-why-this-workspace)
-- [Contributing](#-contributing)
-- [Project Structure](#project-structure)
+- [Project Structure & Adding New Projects](#-project-structure--adding-new-projects)
 - [Testing](#testing)
 - [Troubleshooting / FAQ](#troubleshooting--faq)
 - [Contact / Support](#contact--support)
@@ -27,7 +23,7 @@
 
 ## 📚 What’s Inside?
 
-This is a monorepo-style Angular workspace containing multiple standalone Angular applications. Each folder is a focused project designed to help you understand and apply core Angular concepts in real-world scenarios.
+This workspace contains multiple standalone Angular applications, each focused on a core concept to help you learn and apply Angular in real-world scenarios.
 
 | Project                 | Description                                                                                                                   | Link                                             |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -53,109 +49,47 @@ This is a monorepo-style Angular workspace containing multiple standalone Angula
 
 ## 💼 Project Details
 
-### <img src="1-EasyTask/src/assets/task-management-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#7C3AED"><b>EasyTask</b></span>
+### EasyTask
+- Task management with user avatars and a modern UI
+- Learn: Components, state management, modular design
 
-> <i>Task management application with user management and a modern interface.</i>
+### Investment Calculator
+- Visualize investment growth with interactive charts
+- Learn: Forms, data binding, calculation logic
 
-- 📝 Create & manage tasks
-- 👤 User management with avatars
-- ✨ Modern, reusable UI components
-- <b>Learn:</b> Components, state management, modular design
+### CMP Dashboard
+- Server status, ticket management, analytics
+- Learn: Component communication, dashboard layouts
 
----
+### LifeCycle Explorer
+- Explore Angular lifecycle hooks with live demos
+- Learn: Lifecycle hooks, debugging, modularity
 
-### <img src="2-InvestmentCalculator/public/investment-calculator-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#059669"><b>Investment Calculator</b></span>
+### Directives Playground
+- Custom attribute and structural directives, security, logging
+- Learn: Custom directives, security, debugging
 
-> <i>Visualize your investment growth with interactive charts and instant calculations.</i>
+### Pipes Lab
+- Transform and format data using custom and built-in pipes
+- Learn: Pipes, data transformation, formatting
 
-- 💰 Input investment details
-- ⚡ Instant calculation of returns
-- 📊 Interactive, visual results
-- <b>Learn:</b> Forms, data binding, calculation logic
+### Services Central
+- Reusable Angular services, dependency injection, HTTP/API
+- Learn: Services, dependency injection, HTTP
 
----
+### ChangeDetection Mastery
+- Visualize and optimize Angular's change detection
+- Learn: Change detection, performance optimization
 
-### <img src="3-Components/public/logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#3B82F6"><b>CMP Dashboard</b></span>
-
-> <i>Dashboard for server status, ticket management, and analytics.</i>
-
-- 🖥️ Server status monitoring
-- 🎫 Ticket management
-- 📈 Analytics and reporting
-- <b>Learn:</b> Component communication, dashboard layouts
-
----
-
-### 🔃 <span style="color:#F59E42"><b>LifeCycle Explorer</b></span>
-
-> <i>Explore Angular component lifecycle hooks with live demonstrations.</i>
-
-- 🔬 Interactive exploration of lifecycle hooks
-- 🧩 Modular component structure
-- 📈 Real-time updates and feedback
-- <b>Learn:</b> Lifecycle hooks, debugging, modularity
-
----
-
-### 🏷️ <span style="color:#A21CAF"><b>Directives Playground</b></span>
-
-> <i>Master custom Angular directives with practical examples.</i>
-
-- 🏷️ Custom attribute and structural directives
-- 🔒 Safe link directive for secure navigation
-- 📝 Logging directive for debugging
-- <b>Learn:</b> Custom directives, security, debugging
-
----
-
-### <img src="6-Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/> <span style="color:#F43F5E"><b>Pipes Lab</b></span>
-
-> <i>Transform and format data using custom and built-in Angular pipes.</i>
-
-- 🧪 Custom and built-in pipes
-- 🔤 Data formatting and transformation
-- ⚡ Real-time display updates
-- <b>Learn:</b> Pipes, data transformation, formatting
-
----
-
-### 🔗 <span style="color:#0EA5E9"><b>Services Central</b></span>
-
-> <i>Master Angular services, dependency injection, and data sharing.</i>
-
-- 🔗 Reusable Angular services
-- 🔄 Dependency injection best practices
-- 📡 HTTP & API integration demos
-- <b>Learn:</b> Services, dependency injection, HTTP
-
----
-
-### ⚡ <span style="color:#F59E42"><b>ChangeDetection Mastery</b></span>
-
-> <i>Understand and optimize Angular's change detection strategies.</i>
-
-- ⚡ Explore default & OnPush strategies
-- 🔍 Visualize change detection cycles
-- 🚀 Performance optimization tips
-- <b>Learn:</b> Change detection, performance optimization
-
----
-
-### <img src="9-RxJs/public/rxjs-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#0EA5E9"><b>RxJS Playground</b></span>
-
-> <i>Hands-on RxJS demos for reactive programming in Angular.</i>
-
-- 🔄 RxJS demos (observables, subjects, operators)
-- ⚡ Real-time data streams and UI updates
-- 🚀 Performance and best practices
-- <b>Learn:</b> RxJS, observables, subjects, operators
+### RxJS Playground
+- Hands-on RxJS demos for reactive programming
+- Learn: RxJS, observables, subjects, operators
 
 ---
 
 ## 🚀 Getting Started
 
-To run any project in this workspace:
-
+To run any project:
 1. Open a terminal and navigate to the desired project folder (e.g., <code>cd 1-EasyTask</code>).
 2. Install dependencies:
    <pre>npm install</pre>
@@ -169,7 +103,8 @@ To run any project in this workspace:
 
 ## 🛠️ Project Structure & Adding New Projects
 
-This workspace uses a monorepo approach. Each numbered folder (e.g., <code>1-EasyTask</code>, <code>2-InvestmentCalculator</code>, etc.) is a standalone Angular project with its own configuration and source code. Shared resources, if any, are placed in the <code>other-resources/</code> directory.
+- Each numbered folder (e.g., <code>1-EasyTask</code>, <code>2-InvestmentCalculator</code>) is a standalone Angular project.
+- Shared resources, if any, are in <code>other-resources/</code>.
 
 To add a new project:
 1. Create a new folder in the root directory (e.g., <code>10-YourProjectName</code>).
@@ -194,8 +129,7 @@ Angular/
 ## Testing
 
 To run tests for any project:
-
-1. Navigate to the project folder (e.g., `cd 1-EasyTask`).
+1. Navigate to the project folder (e.g., <code>cd 1-EasyTask</code>).
 2. Run:
    <pre>npm test</pre>
    or
@@ -206,7 +140,7 @@ To run tests for any project:
 ## Troubleshooting / FAQ
 
 - **Port already in use?** Stop any running Angular servers or use a different port: <pre>ng serve --port 4300</pre>
-- **Dependency issues?** Delete `node_modules` and `package-lock.json`, then run <pre>npm install</pre> again.
+- **Dependency issues?** Delete <code>node_modules</code> and <code>package-lock.json</code>, then run <pre>npm install</pre> again.
 - **Other issues?** Check the project-specific README or open an issue.
 
 ---
