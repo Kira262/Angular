@@ -48,3 +48,9 @@ Your modern Angular dashboard for monitoring servers, tickets, and traffic.
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>📊 Monitor. Analyze. Control your app!</b>
+</p>

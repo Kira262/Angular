@@ -46,3 +46,9 @@ Unlock Angular's change detection secrets.
 - [Angular Change Detection Guide](https://angular.io/guide/change-detection)
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>⚡ Visualize. Optimize. Master change detection!</b>
+</p>

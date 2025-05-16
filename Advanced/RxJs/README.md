@@ -46,3 +46,9 @@ Reactive programming with RxJS.
 - [RxJS Docs](https://rxjs.dev/)
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>🔄 React. Stream. Master RxJS!</b>
+</p>

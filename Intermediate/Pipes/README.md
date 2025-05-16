@@ -46,3 +46,9 @@ Transform and format data with custom Angular pipes.
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>🧪 Transform. Format. Master Angular pipes!</b>
+</p>

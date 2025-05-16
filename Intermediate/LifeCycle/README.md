@@ -46,3 +46,9 @@ Deep dive into Angular component lifecycle hooks.
 - [Angular CLI Docs](https://angular.io/cli)
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>🔬 Observe. Learn. Master Angular lifecycle!</b>
+</p>

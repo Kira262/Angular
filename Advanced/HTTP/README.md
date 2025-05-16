@@ -53,3 +53,9 @@ Angular HTTP & REST API integration.
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>🌐 Connect. Build. Integrate APIs with Angular!</b>
+</p>

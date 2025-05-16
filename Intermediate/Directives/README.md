@@ -48,3 +48,9 @@ Master custom Angular directives with hands-on demos.
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>🏷️ Create. Secure. Master Angular directives!</b>
+</p>

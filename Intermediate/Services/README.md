@@ -46,3 +46,9 @@ Master Angular services, dependency injection, and data sharing.
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../../other-resources/angular-course-slides.pdf)
+
+---
+
+<p align="center">
+  <b>🔗 Share. Inject. Master Angular services!</b>
+</p>
