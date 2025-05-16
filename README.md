@@ -17,7 +17,6 @@
 - [Why This Workspace?](#-why-this-workspace)
 - [Contributing](#-contributing)
 - [Project Structure](#project-structure)
-- [How to Add a New Project](#how-to-add-a-new-project)
 - [Testing](#testing)
 - [Troubleshooting / FAQ](#troubleshooting--faq)
 - [Contact / Support](#contact--support)
@@ -155,55 +154,31 @@ This is a monorepo-style Angular workspace containing multiple standalone Angula
 
 ## 🚀 Getting Started
 
-To get started with any project in this workspace, follow these steps:
+To run any project in this workspace:
 
-1. <b>Navigate to the desired project folder</b>
-   - Example: <code>cd 1-EasyTask</code>
-2. <b>Install the project dependencies</b>
-   - Run: <pre>npm install</pre>
-3. <b>Start the development server</b>
-   - Run: <pre>npm start</pre>
-   - Or, if you prefer using Angular CLI: <pre>ng serve</pre>
-4. <b>Open your browser and go to</b> <code>http://localhost:4200</code> (or the port specified in the terminal)
-
-Each project is independent and can be run separately. Make sure you have the required Node.js, npm, and Angular CLI versions installed (see Requirements section below).
+1. Open a terminal and navigate to the desired project folder (e.g., <code>cd 1-EasyTask</code>).
+2. Install dependencies:
+   <pre>npm install</pre>
+3. Start the development server:
+   <pre>npm start</pre>
+   or
+   <pre>ng serve</pre>
+4. Open your browser to <code>http://localhost:4200</code> (or the port shown in the terminal).
 
 ---
 
-## 🛠️ Requirements
+## 🛠️ Project Structure & Adding New Projects
 
-- <b>Node.js</b> (v18+ recommended)
-- <b>npm</b> (v9+ recommended)
-- <b>Angular CLI</b> (v17+ recommended)
+This workspace uses a monorepo approach. Each numbered folder (e.g., <code>1-EasyTask</code>, <code>2-InvestmentCalculator</code>, etc.) is a standalone Angular project with its own configuration and source code. Shared resources, if any, are placed in the <code>other-resources/</code> directory.
 
----
-
-## 🤔 Why This Workspace?
-
-- Learn Angular with real-world, focused projects
-- See best practices and patterns in action
-- Build, experiment, and master Angular concepts
-
----
-
-<p align="center">
-  <b>Explore. Build. Master Angular.</b>
-</p>
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please see the [Contribution Guidelines](./CONTRIBUTING.md) for more information.
-
----
-
-## Project Structure
-
-This workspace uses a monorepo approach. Each numbered folder (e.g., `1-EasyTask`, `2-InvestmentCalculator`, etc.) is a standalone Angular project with its own configuration and source code. Shared resources, if any, are placed in the `other-resources/` directory.
+To add a new project:
+1. Create a new folder in the root directory (e.g., <code>10-YourProjectName</code>).
+2. Scaffold a new Angular project inside that folder using Angular CLI:
+   <pre>ng new 10-YourProjectName --directory ./10-YourProjectName</pre>
+3. Follow the same structure and naming conventions as the other projects.
+4. Add your project to the main README table for visibility.
 
 Example structure:
-
 ```
 Angular/
 ├── 1-EasyTask/
@@ -213,16 +188,6 @@ Angular/
 ├── CONTRIBUTING.md
 ├── README.md
 ```
-
----
-
-## How to Add a New Project
-
-1. Create a new folder in the root directory (e.g., `10-YourProjectName`).
-2. Scaffold a new Angular project inside that folder using Angular CLI:
-   <pre>ng new 10-YourProjectName --directory ./10-YourProjectName</pre>
-3. Follow the same structure and naming conventions as the other projects.
-4. Add your project to the main README table for visibility.
 
 ---
 
