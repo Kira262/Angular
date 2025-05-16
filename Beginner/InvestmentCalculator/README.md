@@ -1,3 +1,7 @@
+# Beginner Projects
+
+---
+
 <h1 align="center"><img src="public/investment-calculator-logo.png" width="40" style="vertical-align:middle;"/> <span style="color:#059669">Investment Calculator</span></h1>
 
 <p align="center">
@@ -54,3 +58,7 @@
 <p align="center">
   <b>📈 Invest smart. See your future. Enjoy!</b>
 </p>
+
+---
+
+# For more projects, see the main workspace README.

@@ -37,7 +37,9 @@
 
 ## 🗂️ Project Directory
 
-**Beginner Projects**
+---
+
+### 🟢 Beginner Projects
 
 | Project                                         | Description                                    |
 | ----------------------------------------------- | ---------------------------------------------- |
@@ -46,7 +48,7 @@
 
 ---
 
-**Intermediate Projects**
+### 🟡 Intermediate Projects
 
 | Project                                         | Description                                 |
 | ----------------------------------------------- | ------------------------------------------- |
@@ -58,7 +60,7 @@
 
 ---
 
-**Advanced Projects**
+### 🔴 Advanced Projects
 
 | Project                                             | Description                               |
 | --------------------------------------------------- | ----------------------------------------- |
@@ -99,7 +101,7 @@
 
 ## 📦 Projects Overview
 
-### <img src="1-EasyTask/src/assets/task-management-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#7C3AED"><b>EasyTask</b></span>
+### <a href="./Beginner/EasyTask/README.md"><img src="Beginner/EasyTask/src/assets/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#7C3AED"><b><a href="./Beginner/EasyTask">EasyTask</a></b></span>
 
 > <i>A simple, stylish task manager</i>
 
@@ -109,7 +111,7 @@
 
 ---
 
-### <img src="2-InvestmentCalculator/public/investment-calculator-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#059669"><b>Investment Calculator</b></span>
+### <a href="./Beginner/InvestmentCalculator/README.md"><img src="Beginner/InvestmentCalculator/public/investment-calculator-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#059669"><b><a href="./Beginner/InvestmentCalculator/README.md">Investment Calculator</a></b></span>
 
 > <i>Visualize your investment growth!</i>
 
@@ -119,7 +121,7 @@
 
 ---
 
-### <img src="3-Components/public/logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#3B82F6"><b>CMP Dashboard</b></span>
+### <a href="./Intermediate/Components/README.md"><img src="Intermediate/Components/public/logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#3B82F6"><b><a href="./Intermediate/Components/README.md">CMP Dashboard</a></b></span>
 
 > <i>Your control center for servers, tickets, and traffic</i>
 
@@ -129,7 +131,7 @@
 
 ---
 
-### 🔃 <span style="color:#F59E42"><b>LifeCycle Explorer</b></span>
+### <a href="./Intermediate/LifeCycle/README.md">🔃</a> <span style="color:#F59E42"><b><a href="./Intermediate/LifeCycle/README.md">LifeCycle Explorer</a></b></span>
 
 > <i>Deep dive into Angular component lifecycle hooks</i>
 
@@ -139,7 +141,7 @@
 
 ---
 
-### 🏷️ <span style="color:#A21CAF"><b>Directives Playground</b></span>
+### <a href="./Intermediate/Directives/README.md">🏷️</a> <span style="color:#A21CAF"><b><a href="./Intermediate/Directives/README.md">Directives Playground</a></b></span>
 
 > <i>Master custom Angular directives with hands-on demos</i>
 
@@ -149,7 +151,7 @@
 
 ---
 
-### <img src="6-Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/> <span style="color:#F43F5E"><b>Pipes Lab</b></span>
+### <a href="./Intermediate/Pipes/README.md"><img src="Intermediate/Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F43F5E"><b><a href="./Intermediate/Pipes/README.md">Pipes Lab</a></b></span>
 
 > <i>Transform and format data with custom Angular pipes</i>
 
@@ -159,7 +161,7 @@
 
 ---
 
-### 🔗 <span style="color:#0EA5E9"><b>Services Central</b></span>
+### <a href="./Intermediate/Services/README.md">🔗</a> <span style="color:#0EA5E9"><b><a href="./Intermediate/Services/README.md">Services Central</a></b></span>
 
 > <i>Master Angular services, dependency injection, and data sharing</i>
 
@@ -169,7 +171,7 @@
 
 ---
 
-### ⚡ <span style="color:#F59E42"><b>ChangeDetection Mastery</b></span>
+### <a href="./Advanced/ChangeDetection/README.md">⚡</a> <span style="color:#F59E42"><b><a href="./Advanced/ChangeDetection/README.md">ChangeDetection Mastery</a></b></span>
 
 > <i>Unlock Angular's change detection secrets!</i>
 
@@ -179,7 +181,7 @@
 
 ---
 
-### <img src="9-RxJs/public/rxjs-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#0EA5E9"><b>RxJS Playground</b></span>
+### <a href="./Advanced/RxJs/README.md"><img src="Advanced/RxJs/public/rxjs-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#0EA5E9"><b><a href="./Advanced/RxJs/README.md">RxJS Playground</a></b></span>
 
 > <i>Reactive programming unleashed!</i>
 
@@ -189,7 +191,7 @@
 
 ---
 
-### <img src="10-HTTP/public/logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#F59E42"><b>HTTP</b></span>
+### <a href="./Advanced/HTTP/README.md"><img src="Advanced/HTTP/public/logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F59E42"><b><a href="./Advanced/HTTP/README.md">HTTP</a></b></span>
 
 > <i>Angular HTTP & REST API integration</i>
 

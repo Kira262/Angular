@@ -55,3 +55,41 @@
 <p align="center">
   <b>🖥️ Monitor. Manage. Master your dashboard!</b>
 </p>
+
+---
+
+# Intermediate Projects
+
+---
+
+**CMP Dashboard**
+
+Monitor servers, tickets, and traffic.
+
+---
+
+**LifeCycle Explorer**
+
+Explore Angular component lifecycle hooks.
+
+---
+
+**Directives Playground**
+
+Master custom Angular directives.
+
+---
+
+**Pipes Lab**
+
+Transform and format data with custom pipes.
+
+---
+
+**Services Central**
+
+Angular services, DI, and data sharing.
+
+---
+
+# For more projects, see the main workspace README.
