@@ -5,18 +5,18 @@
   Learn, build, and master Angular with practical examples and best practices.</b>
 </p>
 
+![Angular](https://img.shields.io/badge/Angular-v17%2B-red)
+![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ---
 
 ## Table of Contents
 - [What’s Inside?](#-whats-inside)
-- [Badges & Status](#-badges--status)
 - [Project Details](#-project-details)
 - [Getting Started](#-getting-started)
 - [Project Structure & Adding New Projects](#-project-structure--adding-new-projects)
-- [Testing](#testing)
 - [Troubleshooting / FAQ](#troubleshooting--faq)
-- [Contact / Support](#contact--support)
-- [Changelog](#changelog)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -36,14 +36,6 @@ This workspace contains multiple standalone Angular applications, each focused o
 | Services Central        | Learn dependency injection, reusable services, and HTTP/API integration.                                                      | [Services](./7-Services)                         |
 | ChangeDetection Mastery | Visualize and optimize Angular’s change detection strategies for maximum performance.                                         | [ChangeDetection](./8-ChangeDetection)           |
 | RxJS Playground         | Get hands-on with RxJS—observables, subjects, operators, and real-time data streams.                                          | [RxJs](./9-RxJs)                                 |
-
----
-
-## 🏷️ Badges & Status
-
-![Angular](https://img.shields.io/badge/Angular-v17%2B-red)
-![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
@@ -126,34 +118,11 @@ Angular/
 
 ---
 
-## Testing
-
-To run tests for any project:
-1. Navigate to the project folder (e.g., <code>cd 1-EasyTask</code>).
-2. Run:
-   <pre>npm test</pre>
-   or
-   <pre>ng test</pre>
-
----
-
 ## Troubleshooting / FAQ
 
 - **Port already in use?** Stop any running Angular servers or use a different port: <pre>ng serve --port 4300</pre>
 - **Dependency issues?** Delete <code>node_modules</code> and <code>package-lock.json</code>, then run <pre>npm install</pre> again.
 - **Other issues?** Check the project-specific README or open an issue.
-
----
-
-## Contact / Support
-
-For questions, suggestions, or support, please open an issue on GitHub or contact the repository maintainer.
-
----
-
-## Changelog
-
-See [CHANGELOG.md](./CHANGELOG.md) for a history of major changes and updates.
 
 ---
 
