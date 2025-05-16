@@ -1,134 +1,115 @@
-<h1 align="center">Angular Multi-Project Workspace</h1>
+<h1 align="center">🌟 Angular Multi-Project Workspace 🚀</h1>
 
 <p align="center">
-  <b>A comprehensive Angular workspace featuring a suite of hands-on, real-world mini-projects.<br>
-  Learn, build, and master Angular with practical examples and best practices.</b>
+  <b>The ultimate Angular playground!<br>Learn, build, and have fun with these hands-on projects.</b>
 </p>
 
-![Angular](https://img.shields.io/badge/Angular-v17%2B-red)
-![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
+---
+
+## 📦 Projects Overview
+
+### <img src="1-EasyTask/src/assets/task-management-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#7C3AED"><b>EasyTask</b></span>
+
+> <i>A simple, stylish task manager</i>
+
+- 📝 Create & manage tasks
+- 👤 User management with avatars
+- ✨ Modern UI & reusable components
 
 ---
 
-## Table of Contents
-- [What’s Inside?](#-whats-inside)
-- [Project Details](#-project-details)
-- [Getting Started](#-getting-started)
-- [Project Structure & Adding New Projects](#-project-structure--adding-new-projects)
-- [Troubleshooting / FAQ](#troubleshooting--faq)
-- [Acknowledgements](#acknowledgements)
+### <img src="2-InvestmentCalculator/public/investment-calculator-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#059669"><b>Investment Calculator</b></span>
+
+> <i>Visualize your investment growth!</i>
+
+- 💰 Input your investment details
+- ⚡ Instant calculation of returns
+- 📊 Beautiful, interactive results
 
 ---
 
-## 📚 What’s Inside?
+### <img src="3-Components/public/logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#3B82F6"><b>CMP Dashboard</b></span>
 
-This workspace contains multiple standalone Angular applications, each focused on a core concept to help you learn and apply Angular in real-world scenarios.
+> <i>Your control center for servers, tickets, and traffic</i>
 
-| Project                 | Description                                                                                                                   | Link                                             |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| EasyTask                | Task management app with user avatars and a modern UI. Learn about components, state management, and user flows.              | [EasyTask](./1-EasyTask)                         |
-| Investment Calculator   | Visualize investment growth with instant calculations and interactive charts. Practice forms, data binding, and calculations. | [InvestmentCalculator](./2-InvestmentCalculator) |
-| CMP Dashboard           | CMP Dashboard for server status, tickets, and analytics. Master component communication and dashboard layouts.                | [Components](./3-Components)                     |
-| LifeCycle Explorer      | Explore Angular’s lifecycle hooks with live demos. See how hooks work in real time.                                           | [LifeCycle](./4-LifeCycle)                       |
-| Directives Playground   | Build and use custom attribute and structural directives. Includes security and logging examples.                             | [Directives](./5-Directives)                     |
-| Pipes Lab               | Transform and format data with custom and built-in pipes. See real-time updates in action.                                    | [Pipes](./6-Pipes)                               |
-| Services Central        | Learn dependency injection, reusable services, and HTTP/API integration.                                                      | [Services](./7-Services)                         |
-| ChangeDetection Mastery | Visualize and optimize Angular’s change detection strategies for maximum performance.                                         | [ChangeDetection](./8-ChangeDetection)           |
-| RxJS Playground         | Get hands-on with RxJS—observables, subjects, operators, and real-time data streams.                                          | [RxJs](./9-RxJs)                                 |
+- 🖥️ Server status monitoring
+- 🎫 Ticket management
+- 📈 Traffic analytics
 
 ---
 
-## 💼 Project Details
+### 🔃 <span style="color:#F59E42"><b>LifeCycle Explorer</b></span>
 
-### EasyTask
-- Task management with user avatars and a modern UI
-- Learn: Components, state management, modular design
+> <i>Deep dive into Angular component lifecycle hooks</i>
 
-### Investment Calculator
-- Visualize investment growth with interactive charts
-- Learn: Forms, data binding, calculation logic
+- 🔬 Explore Angular lifecycle hooks in action
+- 🧩 Modular component structure
+- 📈 Real-time updates and visual feedback
 
-### CMP Dashboard
-- Server status, ticket management, analytics
-- Learn: Component communication, dashboard layouts
+---
 
-### LifeCycle Explorer
-- Explore Angular lifecycle hooks with live demos
-- Learn: Lifecycle hooks, debugging, modularity
+### 🏷️ <span style="color:#A21CAF"><b>Directives Playground</b></span>
 
-### Directives Playground
-- Custom attribute and structural directives, security, logging
-- Learn: Custom directives, security, debugging
+> <i>Master custom Angular directives with hands-on demos</i>
 
-### Pipes Lab
-- Transform and format data using custom and built-in pipes
-- Learn: Pipes, data transformation, formatting
+- 🏷️ Custom attribute and structural directives
+- 🔒 Safe link directive for secure navigation
+- 📝 Logging directive for debugging
 
-### Services Central
-- Reusable Angular services, dependency injection, HTTP/API
-- Learn: Services, dependency injection, HTTP
+---
 
-### ChangeDetection Mastery
-- Visualize and optimize Angular's change detection
-- Learn: Change detection, performance optimization
+### <img src="6-Pipes/public/temp-icon.png" width="32" style="vertical-align:middle;"/> <span style="color:#F43F5E"><b>Pipes Lab</b></span>
 
-### RxJS Playground
-- Hands-on RxJS demos for reactive programming
-- Learn: RxJS, observables, subjects, operators
+> <i>Transform and format data with custom Angular pipes</i>
+
+- 🧪 Custom and built-in pipes
+- 🔤 Data formatting and transformation
+- ⚡ Real-time display updates
+
+---
+
+### 🔗 <span style="color:#0EA5E9"><b>Services Central</b></span>
+
+> <i>Master Angular services, dependency injection, and data sharing</i>
+
+- 🔗 Reusable Angular services
+- 🔄 Dependency injection best practices
+- 📡 HTTP & API integration demos
+
+---
+
+### ⚡ <span style="color:#F59E42"><b>ChangeDetection Mastery</b></span>
+
+> <i>Unlock Angular's change detection secrets!</i>
+
+- ⚡ Explore default & OnPush strategies
+- 🔍 Visualize change detection cycles
+- 🚀 Performance optimization tips
+
+---
+
+### <img src="9-RxJs/public/rxjs-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#0EA5E9"><b>RxJS Playground</b></span>
+
+> <i>Reactive programming unleashed!</i>
+
+- 🔄 Hands-on RxJS demos (observables, subjects, operators)
+- ⚡ Real-time data streams and UI updates
+- 🚀 Performance and best practices
 
 ---
 
 ## 🚀 Getting Started
 
-To run any project:
-1. Open a terminal and navigate to the desired project folder (e.g., <code>cd 1-EasyTask</code>).
-2. Install dependencies:
+1. <b>Pick a project folder:</b>
+2. <b>Install dependencies:</b>
    <pre>npm install</pre>
-3. Start the development server:
+3. <b>Run the app:</b>
    <pre>npm start</pre>
    or
    <pre>ng serve</pre>
-4. Open your browser to <code>http://localhost:4200</code> (or the port shown in the terminal).
 
 ---
 
-## 🛠️ Project Structure & Adding New Projects
-
-- Each numbered folder (e.g., <code>1-EasyTask</code>, <code>2-InvestmentCalculator</code>) is a standalone Angular project.
-- Shared resources, if any, are in <code>other-resources/</code>.
-
-To add a new project:
-1. Create a new folder in the root directory (e.g., <code>10-YourProjectName</code>).
-2. Scaffold a new Angular project inside that folder using Angular CLI:
-   <pre>ng new 10-YourProjectName --directory ./10-YourProjectName</pre>
-3. Follow the same structure and naming conventions as the other projects.
-4. Add your project to the main README table for visibility.
-
-Example structure:
-```
-Angular/
-├── 1-EasyTask/
-├── 2-InvestmentCalculator/
-├── ...
-├── other-resources/
-├── CONTRIBUTING.md
-├── README.md
-```
-
----
-
-## Troubleshooting / FAQ
-
-- **Port already in use?** Stop any running Angular servers or use a different port: <pre>ng serve --port 4300</pre>
-- **Dependency issues?** Delete <code>node_modules</code> and <code>package-lock.json</code>, then run <pre>npm install</pre> again.
-- **Other issues?** Check the project-specific README or open an issue.
-
----
-
-## Acknowledgements
-
-- Thanks to the Angular community and open-source contributors.
-- Inspired by various Angular tutorials and real-world projects.
-
----
+<p align="center">
+  <b>🌈 Explore. Build. Master Angular!</b>
+</p>
