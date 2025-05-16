@@ -41,8 +41,8 @@
 
 | Project                                         | Description                                    |
 | ----------------------------------------------- | ---------------------------------------------- |
-| [EasyTask](#easytask)                           | Simple, stylish task manager with user avatars |
-| [Investment Calculator](#investment-calculator) | Visualize your investment growth               |
+| [EasyTask](Beginner/EasyTask/README.md)                           | Simple, stylish task manager with user avatars |
+| [Investment Calculator](Beginner/InvestmentCalculator/README.md) | Visualize your investment growth               |
 
 ---
 
@@ -50,11 +50,11 @@
 
 | Project                                         | Description                                 |
 | ----------------------------------------------- | ------------------------------------------- |
-| [CMP Dashboard](#cmp-dashboard)                 | Monitor servers, tickets, and traffic       |
-| [LifeCycle Explorer](#lifecycle-explorer)       | Explore Angular component lifecycle hooks   |
-| [Directives Playground](#directives-playground) | Master custom Angular directives            |
-| [Pipes Lab](#pipes-lab)                         | Transform and format data with custom pipes |
-| [Services Central](#services-central)           | Angular services, DI, and data sharing      |
+| [CMP Dashboard](Intermediate/Components/README.md)                 | Monitor servers, tickets, and traffic       |
+| [LifeCycle Explorer](Intermediate/LifeCycle/README.md)       | Explore Angular component lifecycle hooks   |
+| [Directives Playground](Intermediate/Directives/README.md) | Master custom Angular directives            |
+| [Pipes Lab](Intermediate/Pipes/README.md)                         | Transform and format data with custom pipes |
+| [Services Central](Intermediate/Services/README.md)           | Angular services, DI, and data sharing      |
 
 ---
 
@@ -62,9 +62,9 @@
 
 | Project                                             | Description                               |
 | --------------------------------------------------- | ----------------------------------------- |
-| [ChangeDetection Mastery](#changedetection-mastery) | Unlock Angular's change detection secrets |
-| [RxJS Playground](#rxjs-playground)                 | Reactive programming with RxJS            |
-| [HTTP](#10-http)                                    | Angular HTTP & REST API integration       |
+| [ChangeDetection Mastery](Advanced/ChangeDetection/README.md) | Unlock Angular's change detection secrets |
+| [RxJS Playground](Advanced/RxJs/README.md)                 | Reactive programming with RxJS            |
+| [HTTP](Advanced/HTTP/README.md)                                    | Angular HTTP & REST API integration       |
 
 ---
 
