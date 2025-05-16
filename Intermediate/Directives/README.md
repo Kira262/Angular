@@ -1,4 +1,4 @@
-[⬅️ Back to main workspace](../../README.md)
+[⬅️ Back to Intermediate workspace](../README.md)
 
 <h1 align="center">🏷️ <span style="color:#A21CAF">Directives Playground</span></h1>
 

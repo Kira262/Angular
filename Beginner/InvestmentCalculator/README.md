@@ -1,4 +1,4 @@
-[⬅️ Back to main workspace](../../README.md)
+[⬅️ Back to Beginner workspace](../README.md)
 
 <h1 align="center"><img src="public/investment-calculator-logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#059669">Investment Calculator</span></h1>
 

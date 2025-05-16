@@ -37,7 +37,7 @@
 
 ---
 
-### 🟢 Beginner Projects
+### 🟢 [Beginner Projects](./Beginner/)
 
 | Project                                                | Description                                    |
 | ------------------------------------------------------ | ---------------------------------------------- |
@@ -46,7 +46,7 @@
 
 ---
 
-### 🟡 Intermediate Projects
+### 🟡 [Intermediate Projects](./Intermediate/)
 
 | Project                                          | Description                                 |
 | ------------------------------------------------ | ------------------------------------------- |
@@ -58,7 +58,7 @@
 
 ---
 
-### 🔴 Advanced Projects
+### 🔴 [Advanced Projects](./Advanced/)
 
 | Project                                             | Description                               |
 | --------------------------------------------------- | ----------------------------------------- |
