@@ -39,22 +39,22 @@
 
 ### 🟢 Beginner Projects
 
-| Project                                         | Description                                    |
-| ----------------------------------------------- | ---------------------------------------------- |
-| [EasyTask](Beginner/EasyTask/README.md)                           | Simple, stylish task manager with user avatars |
-| [Investment Calculator](Beginner/InvestmentCalculator/README.md) | Visualize your investment growth               |
+| Project                                                | Description                                    |
+| ------------------------------------------------------ | ---------------------------------------------- |
+| [EasyTask](Beginner/EasyTask)                          | Simple, stylish task manager with user avatars |
+| [Investment Calculator](Beginner/InvestmentCalculator) | Visualize your investment growth               |
 
 ---
 
 ### 🟡 Intermediate Projects
 
-| Project                                         | Description                                 |
-| ----------------------------------------------- | ------------------------------------------- |
-| [CMP Dashboard](Intermediate/Components/README.md)                 | Monitor servers, tickets, and traffic       |
-| [LifeCycle Explorer](Intermediate/LifeCycle/README.md)       | Explore Angular component lifecycle hooks   |
-| [Directives Playground](Intermediate/Directives/README.md) | Master custom Angular directives            |
-| [Pipes Lab](Intermediate/Pipes/README.md)                         | Transform and format data with custom pipes |
-| [Services Central](Intermediate/Services/README.md)           | Angular services, DI, and data sharing      |
+| Project                                          | Description                                 |
+| ------------------------------------------------ | ------------------------------------------- |
+| [CMP Dashboard](Intermediate/Components)         | Monitor servers, tickets, and traffic       |
+| [LifeCycle Explorer](Intermediate/LifeCycle)     | Explore Angular component lifecycle hooks   |
+| [Directives Playground](Intermediate/Directives) | Master custom Angular directives            |
+| [Pipes Lab](Intermediate/Pipes)                  | Transform and format data with custom pipes |
+| [Services Central](Intermediate/Services)        | Angular services, DI, and data sharing      |
 
 ---
 
@@ -62,9 +62,9 @@
 
 | Project                                             | Description                               |
 | --------------------------------------------------- | ----------------------------------------- |
-| [ChangeDetection Mastery](Advanced/ChangeDetection/README.md) | Unlock Angular's change detection secrets |
-| [RxJS Playground](Advanced/RxJs/README.md)                 | Reactive programming with RxJS            |
-| [HTTP](Advanced/HTTP/README.md)                                    | Angular HTTP & REST API integration       |
+| [ChangeDetection Mastery](Advanced/ChangeDetection) | Unlock Angular's change detection secrets |
+| [RxJS Playground](Advanced/RxJs)                    | Reactive programming with RxJS            |
+| [HTTP](Advanced/HTTP)                               | Angular HTTP & REST API integration       |
 
 ---
 
