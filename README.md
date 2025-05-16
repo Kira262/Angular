@@ -88,6 +88,16 @@
 
 ---
 
+### <img src="9-RxJs/public/rxjs-logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#0EA5E9"><b>RxJS Playground</b></span>
+
+> <i>Reactive programming unleashed!</i>
+
+- 🔄 Hands-on RxJS demos (observables, subjects, operators)
+- ⚡ Real-time data streams and UI updates
+- 🚀 Performance and best practices
+
+---
+
 ## 🚀 Getting Started
 
 1. <b>Pick a project folder:</b>
@@ -99,6 +109,7 @@
    - <code>cd 6-Pipes</code>
    - <code>cd 7-Services</code>
    - <code>cd 8-ChangeDetection</code>
+   - <code>cd 9-RxJs</code>
 2. <b>Install dependencies:</b>
    <pre>npm install</pre>
 3. <b>Run the app:</b>
