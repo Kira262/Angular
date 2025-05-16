@@ -45,6 +45,13 @@
 
 ---
 
+## 🏗️ How it Works
+
+- Showcases custom attribute and structural directives in real Angular components.
+- Includes safe link and logging directives for practical use cases.
+
+---
+
 <p align="center">
   <b>🏷️ Play. Learn. Secure. Enjoy Directives!</b>
 </p>

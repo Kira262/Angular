@@ -43,6 +43,13 @@
 
 ---
 
+## 🏗️ How it Works
+
+- Explores Angular's change detection strategies (Default & OnPush).
+- Visualizes change detection cycles and performance optimization tips.
+
+---
+
 <p align="center">
   <b>⚡ Detect. Optimize. Master Angular!</b>
 </p>

@@ -43,6 +43,13 @@
 
 ---
 
+## 🏗️ How it Works
+
+- Demonstrates RxJS observables, subjects, and operators in Angular.
+- Real-time data streams and UI updates for hands-on learning.
+
+---
+
 <p align="center">
   <b>🔄 Observe. React. Master RxJS!</b>
 </p>

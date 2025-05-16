@@ -44,6 +44,13 @@
 
 ---
 
+## 🏗️ How it Works
+
+- Demonstrates custom and built-in pipes for transforming and formatting data.
+- Modular components for experimenting with different pipe scenarios.
+
+---
+
 <p align="center">
   <b>🧪 Transform. Format. Shine with Angular Pipes!</b>
 </p>

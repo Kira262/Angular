@@ -1,8 +1,93 @@
+<!-- filepath: c:\Users\ABC\Documents\GitHub\Angular\README.md -->
 <h1 align="center">🌟 Angular Multi-Project Workspace 🚀</h1>
 
 <p align="center">
   <b>The ultimate Angular playground!<br>Learn, build, and have fun with these hands-on projects.</b>
 </p>
+
+<p align="center">
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-v17-red?logo=angular&logoColor=white" alt="Angular Version"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Educational-blue" alt="License"/></a>
+  <a href="other-resources/angular-course-slides.pdf"><img src="https://img.shields.io/badge/Course%20Slides-PDF-green" alt="Course Slides"/></a>
+</p>
+
+---
+
+## 📑 Table of Contents
+
+- [Workspace Features](#-workspace-features)
+- [Project Directory](#️-project-directory)
+- [Getting Started](#-getting-started)
+- [Support & Resources](#-support--resources)
+- [Projects Overview](#-projects-overview)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## ✨ Workspace Features
+
+- 🧩 Multiple real-world Angular projects in one place
+- 🎨 Modern, consistent UI/UX across all demos
+- 📚 Ready-to-use code for learning and reference
+- 🚀 Quick setup and easy navigation
+
+---
+
+## 🗂️ Project Directory
+
+**Beginner Projects**
+
+| Project                                         | Description                                    |
+| ----------------------------------------------- | ---------------------------------------------- |
+| [EasyTask](#easytask)                           | Simple, stylish task manager with user avatars |
+| [Investment Calculator](#investment-calculator) | Visualize your investment growth               |
+
+**Intermediate Projects**
+
+| Project                                         | Description                                 |
+| ----------------------------------------------- | ------------------------------------------- |
+| [CMP Dashboard](#cmp-dashboard)                 | Monitor servers, tickets, and traffic       |
+| [LifeCycle Explorer](#lifecycle-explorer)       | Explore Angular component lifecycle hooks   |
+| [Directives Playground](#directives-playground) | Master custom Angular directives            |
+| [Pipes Lab](#pipes-lab)                         | Transform and format data with custom pipes |
+| [Services Central](#services-central)           | Angular services, DI, and data sharing      |
+
+**Advanced Projects**
+
+| Project                                             | Description                               |
+| --------------------------------------------------- | ----------------------------------------- |
+| [ChangeDetection Mastery](#changedetection-mastery) | Unlock Angular's change detection secrets |
+| [RxJS Playground](#rxjs-playground)                 | Reactive programming with RxJS            |
+
+---
+
+## 🚀 Getting Started
+
+1. **Pick a project from the Project Directory above.**
+2. **Open a terminal in that project folder.**
+3. **Install dependencies:**
+   ```cmd
+   npm install
+   ```
+4. **Run the app:**
+   ```cmd
+   npm start
+   ```
+   or
+   ```cmd
+   ng serve
+   ```
+5. **Open your browser at:** [http://localhost:4200](http://localhost:4200)
+
+---
+
+## 📚 Support & Resources
+
+- 📄 [Angular Course Slides (PDF)](./other-resources/angular-course-slides.pdf)
+- 📖 [Angular Official Documentation](https://angular.dev/overview)
+- 💬 [Angular Community](https://angular.dev/overview#a-thriving-community)
+- 📺 [YouTube Tutorials](https://www.youtube.com/@AngularUniversity)
 
 ---
 
@@ -98,17 +183,20 @@
 
 ---
 
-## 🚀 Getting Started
+## 🤝 Contributing
 
-1. <b>Pick a project folder:</b>
-2. <b>Install dependencies:</b>
-   <pre>npm install</pre>
-3. <b>Run the app:</b>
-   <pre>npm start</pre>
-   or
-   <pre>ng serve</pre>
+Want to help? Here’s how you can contribute:
+
+- ⭐ Star this repository to show your support.
+- 🐛 [Report bugs or request features](https://github.com/Kira262/Angular/issues).
+- 🔀 Fork the repo and submit a pull request.
+- 📄 See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ---
+
+## 📝 License
+
+This workspace is for educational purposes. See individual project folders for specific licensing details if applicable.
 
 <p align="center">
   <b>🌈 Explore. Build. Master Angular!</b>

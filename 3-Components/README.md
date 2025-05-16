@@ -7,6 +7,7 @@
 ---
 
 ## ✨ Features
+
 - 🖥️ <b>Server status monitoring</b>
 - 🎫 <b>Ticket management</b>
 - 📈 <b>Traffic analytics</b>
@@ -16,6 +17,7 @@
 ---
 
 ## 🚀 Quick Start
+
 1. <b>Install dependencies:</b>
    <pre>npm install</pre>
 2. <b>Run the app:</b>
@@ -28,6 +30,7 @@
 ---
 
 ## 🗂️ Project Structure
+
 - <code>src/app/dashboard/</code> – Dashboard features
 - <code>src/app/header/</code> – App header & navigation
 - <code>src/app/shared/</code> – Shared UI components
@@ -35,7 +38,15 @@
 
 ---
 
+## 🏗️ Architecture
+
+- Modular, scalable design with shared components and feature modules.
+- Dashboard aggregates server, ticket, and traffic data for a unified view.
+
+---
+
 ## 📚 Learn More
+
 - [Angular CLI Docs](https://angular.io/cli)
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../other-resources/angular-course-slides.pdf)

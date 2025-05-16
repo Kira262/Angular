@@ -43,6 +43,13 @@
 
 ---
 
+## 🏗️ How it Works
+
+- Demonstrates Angular lifecycle hooks with interactive components.
+- Modular structure for easy experimentation and learning.
+
+---
+
 <p align="center">
   <b>🔄 Experiment. Learn. Master Angular!</b>
 </p>

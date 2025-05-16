@@ -44,6 +44,13 @@
 
 ---
 
+## 🏗️ How it Works
+
+- Demonstrates Angular services for data sharing and dependency injection.
+- Includes HTTP/API integration demos and shared state management.
+
+---
+
 <p align="center">
   <b>🔗 Connect. Share. Power up with Angular Services!</b>
 </p>
