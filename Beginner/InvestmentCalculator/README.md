@@ -10,48 +10,46 @@
 
 ---
 
-## ✨ Features
+## 🚀 Quick Start
 
-- 💰 <b>Input your investment details</b>
-- ⚡ <b>Instant calculation</b> of returns
-- 📊 <b>Beautiful, interactive results</b>
-- 🧮 <b>Simple, intuitive interface</b>
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Run the app:**
+   ```sh
+   npm start
+   ```
+   or
+   ```sh
+   ng serve
+   ```
+3. **Open in browser:**
+   [http://localhost:4200](http://localhost:4200)
 
 ---
 
-## 🚀 Quick Start
+## ✨ Features
 
-1. <b>Install dependencies:</b>
-   <pre>npm install</pre>
-2. <b>Run the app:</b>
-   <pre>npm start</pre>
-   or
-   <pre>ng serve</pre>
-3. <b>Open in browser:</b>
-   <a href="http://localhost:4200">http://localhost:4200</a>
+- 💰 Input your investment details
+- ⚡ Instant calculation of returns
+- 📊 Beautiful, interactive results
+- 🧑‍💻 Simple, intuitive interface
 
 ---
 
 ## 🗂️ Project Structure
 
-- <code>src/app/user-input/</code> – Enter investment data
-- <code>src/app/investment-results/</code> – Results & charts
-- <code>public/</code> – App icons and images
+- `src/app/user-input/` – Enter investment data
+- `src/app/investment-results/` – Results & charts
+- `public/` – App icons and images
 
 ---
 
 ## 📚 Learn More
 
 - [Angular Docs](https://angular.io/)
-- [Course Slides](../other-resources/angular-course-slides.pdf)
-
----
-
-## 🏗️ How it Works
-
-- Enter your investment details and instantly see calculated results.
-- Interactive charts and results update in real time.
-- Simple, modular components for easy experimentation.
+- [Course Slides](../../other-resources/angular-course-slides.pdf)
 
 ---
 
@@ -61,4 +59,53 @@
 
 ---
 
-# For more projects, see the main workspace README.
+[⬅️ Back to main workspace](../../README.md)
+
+---
+
+# Investment Calculator
+
+Visualize your investment growth.
+
+---
+
+## 🚀 Quick Start
+
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Run the app:**
+   ```sh
+   npm start
+   ```
+   or
+   ```sh
+   ng serve
+   ```
+3. **Open in browser:**
+   [http://localhost:4200](http://localhost:4200)
+
+---
+
+## ✨ Features
+
+- 💰 Input your investment details
+- ⚡ Instant calculation of returns
+- 📊 Beautiful, interactive results
+- 🧑‍💻 Simple, intuitive interface
+
+---
+
+## 🗂️ Project Structure
+
+- `src/app/user-input/` – Enter investment data
+- `src/app/investment-results/` – Results & charts
+- `public/` – App icons and images
+
+---
+
+## 📚 Learn More
+
+- [Angular Docs](https://angular.io/)
+- [Course Slides](../../other-resources/angular-course-slides.pdf)

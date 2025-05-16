@@ -1,95 +1,50 @@
-<h1 align="center"><img src="public/logo.png" width="40" style="vertical-align:middle;"/> <span style="color:#3B82F6">CMP Dashboard</span></h1>
+[⬅️ Back to main workspace](../../README.md)
 
-<p align="center">
-  <b>🖥️ Your modern Angular dashboard for monitoring servers, tickets, and traffic!</b>
-</p>
+# CMP Dashboard
 
----
-
-## ✨ Features
-
-- 🖥️ <b>Server status monitoring</b>
-- 🎫 <b>Ticket management</b>
-- 📈 <b>Traffic analytics</b>
-- 🧩 <b>Modular, scalable architecture</b>
-- 🏷️ <b>Custom header and navigation</b>
+Your modern Angular dashboard for monitoring servers, tickets, and traffic.
 
 ---
 
 ## 🚀 Quick Start
 
-1. <b>Install dependencies:</b>
-   <pre>npm install</pre>
-2. <b>Run the app:</b>
-   <pre>npm start</pre>
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Run the app:**
+   ```sh
+   npm start
+   ```
    or
-   <pre>ng serve</pre>
-3. <b>Open in browser:</b>
-   <a href="http://localhost:4200">http://localhost:4200</a>
+   ```sh
+   ng serve
+   ```
+3. **Open in browser:**
+   [http://localhost:4200](http://localhost:4200)
+
+---
+
+## ✨ Features
+
+- 🖥️ Server status monitoring
+- 🎫 Ticket management
+- 📈 Traffic analytics
+- 🧩 Modular, scalable architecture
+- 🏷️ Custom header and navigation
 
 ---
 
 ## 🗂️ Project Structure
 
-- <code>src/app/dashboard/</code> – Dashboard features
-- <code>src/app/header/</code> – App header & navigation
-- <code>src/app/shared/</code> – Shared UI components
-- <code>public/</code> – App icons and images
+- `src/app/dashboard/` – Dashboard features
+- `src/app/header/` – App header & navigation
+- `src/app/shared/` – Shared UI components
+- `public/` – App icons and images
 
 ---
 
 ## 📚 Learn More
 
-- [Angular CLI Docs](https://angular.io/cli)
-
----
-
-## 🏗️ How it Works
-
-- Modular, scalable design with shared components and feature modules.
-- Dashboard aggregates server, ticket, and traffic data for a unified view.
-- Real-time updates and analytics for monitoring and management.
-
----
-
-<p align="center">
-  <b>🖥️ Monitor. Manage. Master your dashboard!</b>
-</p>
-
----
-
-# Intermediate Projects
-
----
-
-**CMP Dashboard**
-
-Monitor servers, tickets, and traffic.
-
----
-
-**LifeCycle Explorer**
-
-Explore Angular component lifecycle hooks.
-
----
-
-**Directives Playground**
-
-Master custom Angular directives.
-
----
-
-**Pipes Lab**
-
-Transform and format data with custom pipes.
-
----
-
-**Services Central**
-
-Angular services, DI, and data sharing.
-
----
-
-# For more projects, see the main workspace README.
+- [Angular Docs](https://angular.io/)
+- [Course Slides](../../other-resources/angular-course-slides.pdf)

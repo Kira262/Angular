@@ -1,57 +1,48 @@
-<h1 align="center">🔗 <span style="color:#0EA5E9">Services Central</span></h1>
+[⬅️ Back to main workspace](../../README.md)
 
-<p align="center">
-  <b>🛠️ Master Angular services, dependency injection, and data sharing!<br>Build robust, maintainable apps with real-world service patterns.</b>
-</p>
+# Services Central
 
----
-
-## ✨ Features
-
-- 🔗 <b>Reusable Angular services</b> for data and logic
-- 🔄 <b>Dependency injection</b> best practices
-- 📡 <b>HTTP & API integration demos</b>
-- 🧩 <b>Shared state and communication</b>
+Master Angular services, dependency injection, and data sharing.
 
 ---
 
 ## 🚀 Quick Start
 
-1. <b>Install dependencies:</b>
-   <pre>npm install</pre>
-2. <b>Run the app:</b>
-   <pre>npm start</pre>
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Run the app:**
+   ```sh
+   npm start
+   ```
    or
-   <pre>ng serve</pre>
-3. <b>Open in browser:</b>
-   <a href="http://localhost:4200">http://localhost:4200</a>
+   ```sh
+   ng serve
+   ```
+3. **Open in browser:**
+   [http://localhost:4200](http://localhost:4200)
+
+---
+
+## ✨ Features
+
+- 🔗 Reusable Angular services for data and logic
+- 🔄 Dependency injection best practices
+- 📡 HTTP & API integration demos
+- 🧩 Shared state and communication
 
 ---
 
 ## 🗂️ Project Structure
 
-- <code>src/app/services/</code> – Core Angular services
-- <code>src/app/shared/</code> – Shared utilities
-- <code>public/</code> – App icons and images
+- `src/app/services/` – Core Angular services
+- `src/app/shared/` – Shared utilities
+- `public/` – App icons and images
 
 ---
 
 ## 📚 Learn More
 
-- [Angular Services Guide](https://angular.io/guide/architecture-services)
 - [Angular Docs](https://angular.io/)
-- [Course Slides](../other-resources/angular-course-slides.pdf)
-
----
-
-## 🏗️ How it Works
-
-- Demonstrates Angular services for data sharing and dependency injection.
-- Includes HTTP/API integration demos and shared state management.
-- Modular code for easy extension and best practices.
-
----
-
-<p align="center">
-  <b>🔗 Share. Inject. Master Angular services!</b>
-</p>
+- [Course Slides](../../other-resources/angular-course-slides.pdf)

@@ -1,37 +1,43 @@
-<h1 align="center">⚡ <span style="color:#F59E42">ChangeDetection Mastery</span></h1>
+[⬅️ Back to main workspace](../../README.md)
 
-<p align="center">
-  <b>⚡ Unlock Angular's change detection secrets!<br>Visualize, experiment, and optimize your app's performance.</b>
-</p>
+# ChangeDetection Mastery
 
----
-
-## ✨ Features
-
-- ⚡ <b>Explore default & OnPush strategies</b>
-- 🔍 <b>Visualize change detection cycles</b>
-- 🧩 <b>Interactive, modular demos</b>
-- 🚀 <b>Performance optimization tips</b>
+Unlock Angular's change detection secrets.
 
 ---
 
 ## 🚀 Quick Start
 
-1. <b>Install dependencies:</b>
-   <pre>npm install</pre>
-2. <b>Run the app:</b>
-   <pre>npm start</pre>
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Run the app:**
+   ```sh
+   npm start
+   ```
    or
-   <pre>ng serve</pre>
-3. <b>Open in browser:</b>
-   <a href="http://localhost:4200">http://localhost:4200</a>
+   ```sh
+   ng serve
+   ```
+3. **Open in browser:**
+   [http://localhost:4200](http://localhost:4200)
+
+---
+
+## ✨ Features
+
+- ⚡ Explore default & OnPush strategies
+- 🔍 Visualize change detection cycles
+- 🧩 Interactive, modular demos
+- 🚀 Performance optimization tips
 
 ---
 
 ## 🗂️ Project Structure
 
-- <code>src/app/</code> – Change detection demos & components
-- <code>public/</code> – App icons and images
+- `src/app/` – Change detection demos & components
+- `public/` – App icons and images
 
 ---
 
@@ -39,18 +45,4 @@
 
 - [Angular Change Detection Guide](https://angular.io/guide/change-detection)
 - [Angular Docs](https://angular.io/)
-- [Course Slides](../other-resources/angular-course-slides.pdf)
-
----
-
-## 🏗️ How it Works
-
-- Explores Angular's change detection strategies (Default & OnPush).
-- Visualizes change detection cycles and performance optimization tips.
-- Modular demos for hands-on experimentation.
-
----
-
-<p align="center">
-  <b>⚡ Visualize. Optimize. Master change detection!</b>
-</p>
+- [Course Slides](../../other-resources/angular-course-slides.pdf)

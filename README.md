@@ -6,10 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-v17-red?logo=angular&logoColor=white" alt="Angular Version"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Educational-blue" alt="License"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-v19-red?logo=angular&logoColor=white" alt="Angular Version"/></a>
   <a href="other-resources/angular-course-slides.pdf"><img src="https://img.shields.io/badge/Course%20Slides-PDF-green" alt="Course Slides"/></a>
-  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
 </p>
 
 ---
