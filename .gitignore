@@ -42,5 +42,6 @@ testem.log
 Thumbs.db
 
 
-
+angular.code-workspace
+# Local env files
 backup.md
