@@ -1,4 +1,4 @@
-<h1 align="center">🔃 <span style="color:#F59E42">LifeCycle Explorer</span></h1>
+<h1 align="center">🔄 <span style="color:#F59E42">LifeCycle Explorer</span></h1>
 
 <p align="center">
   <b>🔬 Deep dive into Angular component lifecycle hooks!<br>Visualize, experiment, and master Angular's core concepts.</b>
@@ -47,9 +47,10 @@
 
 - Demonstrates Angular lifecycle hooks with interactive components.
 - Modular structure for easy experimentation and learning.
+- Real-time feedback for each lifecycle event.
 
 ---
 
 <p align="center">
-  <b>🔄 Experiment. Learn. Master Angular!</b>
+  <b>🔄 Visualize. Experiment. Master Angular lifecycle!</b>
 </p>

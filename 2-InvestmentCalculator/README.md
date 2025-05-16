@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Features
+## ✨ Features
 
 - 💰 <b>Input your investment details</b>
 - ⚡ <b>Instant calculation</b> of returns
@@ -40,6 +40,14 @@
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../other-resources/angular-course-slides.pdf)
+
+---
+
+## 🏗️ How it Works
+
+- Enter your investment details and instantly see calculated results.
+- Interactive charts and results update in real time.
+- Simple, modular components for easy experimentation.
 
 ---
 

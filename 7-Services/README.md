@@ -48,9 +48,10 @@
 
 - Demonstrates Angular services for data sharing and dependency injection.
 - Includes HTTP/API integration demos and shared state management.
+- Modular code for easy extension and best practices.
 
 ---
 
 <p align="center">
-  <b>🔗 Connect. Share. Power up with Angular Services!</b>
+  <b>🔗 Share. Inject. Master Angular services!</b>
 </p>

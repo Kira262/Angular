@@ -1,12 +1,12 @@
 <h1 align="center"><img src="src/assets/task-management-logo.png" width="40" style="vertical-align:middle;"/> <span style="color:#7C3AED">EasyTask</span></h1>
 
 <p align="center">
-  <b>✨ The ultimate, stylish Angular task manager! ✨<br>Organize, manage, and conquer your to-dos with ease.</b>
+  <b>✨ The ultimate, stylish Angular task manager!<br>Organize, manage, and conquer your to-dos with ease.</b>
 </p>
 
 ---
 
-## 🌟 Features
+## ✨ Features
 
 - 📝 <b>Create & manage tasks</b> with a beautiful UI
 - 👤 <b>User management</b> with avatars
@@ -40,6 +40,14 @@
 
 - [Angular Docs](https://angular.io/)
 - [Course Slides](../other-resources/angular-course-slides.pdf)
+
+---
+
+## 🏗️ How it Works
+
+- Create, update, and delete tasks with a modern UI.
+- Manage users and avatars for a personalized experience.
+- Modular components for easy extension and maintenance.
 
 ---
 

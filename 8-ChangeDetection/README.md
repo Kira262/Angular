@@ -47,9 +47,10 @@
 
 - Explores Angular's change detection strategies (Default & OnPush).
 - Visualizes change detection cycles and performance optimization tips.
+- Modular demos for hands-on experimentation.
 
 ---
 
 <p align="center">
-  <b>⚡ Detect. Optimize. Master Angular!</b>
+  <b>⚡ Visualize. Optimize. Master change detection!</b>
 </p>

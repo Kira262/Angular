@@ -47,6 +47,7 @@
 
 - Demonstrates RxJS observables, subjects, and operators in Angular.
 - Real-time data streams and UI updates for hands-on learning.
+- Modular examples for experimenting with reactive patterns.
 
 ---
 

@@ -38,21 +38,20 @@
 
 ---
 
-## 🏗️ Architecture
-
-- Modular, scalable design with shared components and feature modules.
-- Dashboard aggregates server, ticket, and traffic data for a unified view.
-
----
-
 ## 📚 Learn More
 
 - [Angular CLI Docs](https://angular.io/cli)
-- [Angular Docs](https://angular.io/)
-- [Course Slides](../other-resources/angular-course-slides.pdf)
+
+---
+
+## 🏗️ How it Works
+
+- Modular, scalable design with shared components and feature modules.
+- Dashboard aggregates server, ticket, and traffic data for a unified view.
+- Real-time updates and analytics for monitoring and management.
 
 ---
 
 <p align="center">
-  <b>📊 Monitor. Manage. Master Angular!</b>
+  <b>🖥️ Monitor. Manage. Master your dashboard!</b>
 </p>

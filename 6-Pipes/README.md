@@ -1,7 +1,7 @@
 <h1 align="center">🧪 <span style="color:#F43F5E">Pipes Lab</span></h1>
 
 <p align="center">
-  <b>🔤 Transform and format data with custom Angular pipes!<br>Experiment, visualize, and master data transformation in style.</b>
+  <b>🔬 Transform and format data with custom Angular pipes!<br>Experiment, visualize, and master data transformation in style.</b>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## ✨ Features
 
 - 🧪 <b>Custom and built-in pipes</b>
-- 🔤 <b>Data formatting and transformation</b>
+- 🔬 <b>Data formatting and transformation</b>
 - ⚡ <b>Real-time display updates</b>
 - 🧩 <b>Modular, clean code structure</b>
 
@@ -48,9 +48,10 @@
 
 - Demonstrates custom and built-in pipes for transforming and formatting data.
 - Modular components for experimenting with different pipe scenarios.
+- Real-time updates for instant feedback.
 
 ---
 
 <p align="center">
-  <b>🧪 Transform. Format. Shine with Angular Pipes!</b>
+  <b>🧪 Transform. Format. Master Angular pipes!</b>
 </p>

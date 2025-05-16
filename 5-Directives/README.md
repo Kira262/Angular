@@ -1,7 +1,7 @@
 <h1 align="center">🏷️ <span style="color:#A21CAF">Directives Playground</span></h1>
 
 <p align="center">
-  <b>✨ Master custom Angular directives with hands-on demos! ✨<br>Experiment, learn, and secure your app with style.</b>
+  <b>✨ Master custom Angular directives with hands-on demos!<br>Experiment, learn, and secure your app with style.</b>
 </p>
 
 ---
@@ -48,10 +48,11 @@
 ## 🏗️ How it Works
 
 - Showcases custom attribute and structural directives in real Angular components.
-- Includes safe link and logging directives for practical use cases.
+- Includes secure navigation and logging examples for practical learning.
+- Modular code for easy extension and experimentation.
 
 ---
 
 <p align="center">
-  <b>🏷️ Play. Learn. Secure. Enjoy Directives!</b>
+  <b>🏷️ Create. Secure. Master Angular directives!</b>
 </p>

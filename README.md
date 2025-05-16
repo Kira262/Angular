@@ -1,4 +1,4 @@
-<!-- filepath: c:\Users\ABC\Documents\GitHub\Angular\README.md -->
+<!-- filepath: Angular\README.md -->
 <h1 align="center">🌟 Angular Multi-Project Workspace 🚀</h1>
 
 <p align="center">
@@ -9,6 +9,7 @@
   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-v17-red?logo=angular&logoColor=white" alt="Angular Version"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Educational-blue" alt="License"/></a>
   <a href="other-resources/angular-course-slides.pdf"><img src="https://img.shields.io/badge/Course%20Slides-PDF-green" alt="Course Slides"/></a>
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
 </p>
 
 ---
@@ -43,6 +44,8 @@
 | [EasyTask](#easytask)                           | Simple, stylish task manager with user avatars |
 | [Investment Calculator](#investment-calculator) | Visualize your investment growth               |
 
+---
+
 **Intermediate Projects**
 
 | Project                                         | Description                                 |
@@ -53,12 +56,15 @@
 | [Pipes Lab](#pipes-lab)                         | Transform and format data with custom pipes |
 | [Services Central](#services-central)           | Angular services, DI, and data sharing      |
 
+---
+
 **Advanced Projects**
 
 | Project                                             | Description                               |
 | --------------------------------------------------- | ----------------------------------------- |
 | [ChangeDetection Mastery](#changedetection-mastery) | Unlock Angular's change detection secrets |
 | [RxJS Playground](#rxjs-playground)                 | Reactive programming with RxJS            |
+| [HTTP](#10-http)                                    | Angular HTTP & REST API integration       |
 
 ---
 
@@ -180,6 +186,17 @@
 - 🔄 Hands-on RxJS demos (observables, subjects, operators)
 - ⚡ Real-time data streams and UI updates
 - 🚀 Performance and best practices
+
+---
+
+### <img src="10-HTTP/public/logo.png" width="32" style="vertical-align:middle;"/> <span style="color:#F59E42"><b>HTTP</b></span>
+
+> <i>Angular HTTP & REST API integration</i>
+
+- 🌐 Fetch, create, update, and delete data via HTTP
+- 🛠️ Node.js/Express backend included
+- ⚡ Error handling and loading states
+- 📡 Real-world API demo
 
 ---
 
