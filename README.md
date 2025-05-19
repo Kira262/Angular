@@ -33,7 +33,7 @@
   - [🔗 Services Central](#-services-central)
   - [⚡ ChangeDetection Mastery](#-changedetection-mastery)
   - [ RxJS Playground](#-rxjs-playground)
-  - [ HTTP](#-http)
+  - [ Place Picker](#-place-picker)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 
