@@ -14,14 +14,28 @@
 
 ## 📑 Table of Contents
 
-- [Workspace Features](#-workspace-features)
-- [Project Directory](#️-project-directory)
-- [Getting Started](#-getting-started)
-- [Featured Course & Resources](#-featured-course--resources)
-- [Support & Resources](#-support--resources)
-- [Projects Overview](#-projects-overview)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [📑 Table of Contents](#-table-of-contents)
+- [✨ Workspace Features](#-workspace-features)
+- [🗂️ Project Directory](#️-project-directory)
+  - [🟢 Beginner Projects](#-beginner-projects)
+  - [🟡 Intermediate Projects](#-intermediate-projects)
+  - [🔴 Advanced Projects](#-advanced-projects)
+- [🚀 Getting Started](#-getting-started)
+- [🎓 Featured Course \& Resources](#-featured-course--resources)
+- [📚 Support \& Resources](#-support--resources)
+- [📦 Projects Overview](#-projects-overview)
+  - [ EasyTask](#-easytask)
+  - [ Investment Calculator](#-investment-calculator)
+  - [ CMP Dashboard](#-cmp-dashboard)
+  - [🔃 LifeCycle Explorer](#-lifecycle-explorer)
+  - [🏷️ Directives Playground](#️-directives-playground)
+  - [ Pipes Lab](#-pipes-lab)
+  - [🔗 Services Central](#-services-central)
+  - [⚡ ChangeDetection Mastery](#-changedetection-mastery)
+  - [ RxJS Playground](#-rxjs-playground)
+  - [ HTTP](#-http)
+- [🤝 Contributing](#-contributing)
+- [📝 License](#-license)
 
 ---
 
