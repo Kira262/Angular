@@ -1,4 +1,5 @@
 export interface Place {
+  name: any;
   id: string;
   title: string;
   image: {
@@ -7,4 +8,5 @@ export interface Place {
   };
   lat: number;
   lon: number;
+  justAdded?: boolean; // Add optional justAdded property
 }
