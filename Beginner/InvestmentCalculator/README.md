@@ -29,17 +29,16 @@
 
 ## ✨ Features
 
-- 💰 Input your investment details
+- 💸 Visualize investment growth
+- 📈 Interactive charts
 - ⚡ Instant calculation of returns
-- 📊 Beautiful, interactive results
-- 🧑‍💻 Simple, intuitive interface
+- 🧩 Clean, modular code
 
 ---
 
 ## 🗂️ Project Structure
 
-- `src/app/user-input/` – Enter investment data
-- `src/app/investment-results/` – Results & charts
+- `src/app/` – Investment calculator features
 - `public/` – App icons and images
 
 ---
