@@ -1,4 +1,3 @@
-<!-- filepath: c:\Users\ABC\Documents\Github\Angular\Beginner\README.md -->
 <h1 align="center">🟢 Beginner Angular Projects</h1>
 
 <p align="center">
@@ -29,8 +28,8 @@
 
 ## 🗂️ Projects Included
 
-- [EasyTask](./EasyTask): Simple, stylish task manager with user avatars
-- [Investment Calculator](./InvestmentCalculator): Visualize your investment growth
+- <img src="EasyTask/src/assets/task-management-logo.png" width="24" style="vertical-align:middle;"/> [EasyTask](./EasyTask): Simple, stylish task manager with user avatars
+- <img src="InvestmentCalculator/public/investment-calculator-logo.png" width="24" style="vertical-align:middle;"/> [Investment Calculator](./InvestmentCalculator): Visualize your investment growth
 
 ---
 

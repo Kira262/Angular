@@ -1,4 +1,3 @@
-<!-- filepath: c:\Users\ABC\Documents\Github\Angular\Advanced\README.md -->
 <h1 align="center">🔴 Advanced Angular Projects</h1>
 
 <p align="center">
@@ -29,9 +28,9 @@
 
 ## 🗂️ Projects Included
 
-- [ChangeDetection Mastery](./ChangeDetection): Unlock Angular's change detection secrets
-- [RxJS Playground](./RxJs): Reactive programming with RxJS
-- [Place Picker](./PlacePicker/): Angular HTTP & REST API integration
+- <img src="ChangeDetection/public/favicon.ico" width="24" style="vertical-align:middle;"/> [ChangeDetection Mastery](./ChangeDetection): Unlock Angular's change detection secrets
+- <img src="RxJs/public/rxjs-logo.png" width="24" style="vertical-align:middle;"/> [RxJS Playground](./RxJs): Reactive programming with RxJS
+- <img src="PlacePicker/public/logo.png" width="24" style="vertical-align:middle;"/> [Place Picker](./PlacePicker/): Angular HTTP & REST API integration
 
 ---
 
