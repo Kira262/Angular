@@ -79,7 +79,7 @@
 | --------------------------------------------------- | ----------------------------------------- |
 | [ChangeDetection Mastery](Advanced/ChangeDetection) | Unlock Angular's change detection secrets |
 | [RxJS Playground](Advanced/RxJs)                    | Reactive programming with RxJS            |
-| [HTTP](Advanced/HTTP)                               | Angular HTTP & REST API integration       |
+| [Place Picker](Advanced/PlacePicker/)               | Angular HTTP & REST API integration       |
 
 ---
 
@@ -214,7 +214,7 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Advanced/HTTP/README.md"><img src="Advanced/HTTP/public/logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F59E42"><b><a href="./Advanced/HTTP/README.md">HTTP</a></b></span>
+### <a href="./Advanced/PlacePicker/README.md"><img src="Advanced/PlacePicker/public/logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F59E42"><b><a href="./Advanced/PlacePicker/README.md">Place Picker</a></b></span>
 
 > <i>Angular HTTP & REST API integration</i>
 

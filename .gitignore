@@ -41,6 +41,10 @@ testem.log
 .DS_Store
 Thumbs.db
 
+# Ignore all angular.json files
+angular.json
+**/angular.json
+
 
 angular.code-workspace
 # Local env files
