@@ -8,7 +8,6 @@ import { PlacesComponent } from '../places.component';
   standalone: true,
   templateUrl: './user-places.component.html',
   styleUrl: './user-places.component.css',
-  imports: [PlacesContainerComponent, PlacesComponent],
+  imports: [PlacesContainerComponent],
 })
-export class UserPlacesComponent {
-}
+export class UserPlacesComponent {}
