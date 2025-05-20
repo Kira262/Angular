@@ -175,7 +175,7 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Intermediate/Forms/README.md"><img src="Intermediate/Forms/public/logo.jpg" width="32" style="vertical-align:middle;"/></a> <span style="color:#F43F5E"><b><a href="./Intermediate/Forms/README.md">Forms Workshop</a></b></span>
+### <a href="./Intermediate/Forms/README.md"><img src="Intermediate/Forms/public/logo.jpg" width="32" style="vertical-align:middle; border-radius: 50%;"/></a> <span style="color:#F43F5E"><b><a href="./Intermediate/Forms/README.md">Forms Workshop</a></b></span>
 
 > <i>Master Angular forms with interactive examples</i>
 

@@ -1,4 +1,4 @@
-[⬅️ Back to Advanced workspace](../README.md)
+[⬆️ Back to Advanced workspace](../README.md)
 
 <h1 align="center"><img src="public/logo.png" width="48" style="vertical-align:middle;"/> <span style="color:#F59E42">Place Picker: HTTP & REST API Demo</span></h1>
 

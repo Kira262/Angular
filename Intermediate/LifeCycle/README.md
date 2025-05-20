@@ -1,4 +1,4 @@
-[⬅️ Back to Intermediate workspace](../README.md)
+[⬆️ Back to Intermediate workspace](../README.md)
 
 <h1 align="center">🔃 <span style="color:#F59E42">LifeCycle Explorer</span></h1>
 

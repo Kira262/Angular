@@ -1,4 +1,4 @@
-[⬅️ Back to Intermediate workspace](../README.md)
+[⬆️ Back to Intermediate workspace](../README.md)
 
 <h1 align="center"><img src="public/temp-icon.png" width="48" style="vertical-align:middle;"/> <span style="color:#F43F5E">Pipes Lab</span></h1>
 
