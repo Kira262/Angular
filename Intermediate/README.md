@@ -31,6 +31,7 @@
 - <img src="Components/public/logo.png" width="24" style="vertical-align:middle;"/> [CMP Dashboard](./Components): Monitor servers, tickets, and traffic
 - 🔃 [LifeCycle Explorer](./LifeCycle): Explore Angular component lifecycle hooks
 - 🏷️ [Directives Playground](./Directives): Master custom Angular directives
+- <img src="Forms/public/forms-workshop-logo.png" width="24" style="vertical-align:middle;"/> [Forms Workshop](./Forms): Master Angular forms with interactive examples
 - <img src="Pipes/public/temp-icon.png" width="24" style="vertical-align:middle;"/> [Pipes Lab](./Pipes): Transform and format data with custom pipes
 - 🔗 [Services Central](./Services): Angular services, DI, and data sharing
 

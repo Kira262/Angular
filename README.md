@@ -63,13 +63,14 @@
 
 ### 🟡 [Intermediate Projects](./Intermediate/)
 
-| Project                                          | Description                                 |
-| ------------------------------------------------ | ------------------------------------------- |
-| [CMP Dashboard](Intermediate/Components)         | Monitor servers, tickets, and traffic       |
-| [LifeCycle Explorer](Intermediate/LifeCycle)     | Explore Angular component lifecycle hooks   |
-| [Directives Playground](Intermediate/Directives) | Master custom Angular directives            |
-| [Pipes Lab](Intermediate/Pipes)                  | Transform and format data with custom pipes |
-| [Services Central](Intermediate/Services)        | Angular services, DI, and data sharing      |
+| Project                                          | Description                                    |
+| ------------------------------------------------ | ---------------------------------------------- |
+| [CMP Dashboard](Intermediate/Components)         | Monitor servers, tickets, and traffic          |
+| [LifeCycle Explorer](Intermediate/LifeCycle)     | Explore Angular component lifecycle hooks      |
+| [Directives Playground](Intermediate/Directives) | Master custom Angular directives               |
+| [Forms Workshop](Intermediate/Forms)             | Master Angular forms with interactive examples |
+| [Pipes Lab](Intermediate/Pipes)                  | Transform and format data with custom pipes    |
+| [Services Central](Intermediate/Services)        | Angular services, DI, and data sharing         |
 
 ---
 
@@ -171,6 +172,16 @@ Take your Angular skills to the next level with this highly recommended course a
 - 🏷️ Custom attribute and structural directives
 - 🔒 Safe link directive for secure navigation
 - 📝 Logging directive for debugging
+
+---
+
+### <a href="./Intermediate/Forms/README.md"><img src="Intermediate/Forms/public/forms-workshop-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F43F5E"><b><a href="./Intermediate/Forms/README.md">Forms Workshop</a></b></span>
+
+> <i>Master Angular forms with interactive examples</i>
+
+- 📋 Reactive and template-driven forms
+- 🔄 Dynamic form controls and validation
+- 🎨 Custom form components and styling
 
 ---
 
