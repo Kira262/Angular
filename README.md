@@ -23,18 +23,19 @@
 - [🚀 Getting Started](#-getting-started)
 - [🎓 Featured Course \& Resources](#-featured-course--resources)
 - [📚 Support \& Resources](#-support--resources)
-- [📦 Projects Overview](#-projects-overview) -[EasyTask](#easy-task)
-  - [Investment Calculator](#investment-calculator)
+- [📦 Projects Overview](#projects-overview)
+  - [EasyTask](#easytask)
+  - [Investment Calculator](#-investment-calculator)
   - [CMP Dashboard](#cmp-dashboard)
-  - [LifeCycle Explorer](#lifecycle-explorer)
-  - [Directives Playground](#directives-playground)
+  - [LifeCycle Explorer](#-lifecycle-explorer)
+  - [Directives Playground](#️-directives-playground)
   - [Forms Workshop](#forms-workshop)
   - [Pipes Lab](#pipes-lab)
-  - [Services Central](#services-central)
-  - [EasyTask (Routing)](#easy-task-routing)
-  - [ChangeDetection Mastery](#changedetection-mastery)
+  - [Services Central](#-services-central)
+  - [EasyTask (Routing)](#easytask-routing)
+  - [ChangeDetection Mastery](#️-changedetection-mastery)
   - [RxJS Playground](#rxjs-playground)
-  - [Place Picker](#place-picker)
+  - [Place Picker](#-place-picker)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 
@@ -219,7 +220,7 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Advanced/ChangeDetection/README.md">⚡</a> <span style="color:#F59E42"><b><a href="./Advanced/ChangeDetection/README.md">ChangeDetection Mastery</a></b></span>
+### <a href="./Advanced/ChangeDetection/README.md">🏷️</a> <span style="color:#A21CAF"><b><a href="./Advanced/ChangeDetection/README.md">ChangeDetection Mastery</a></b></span>
 
 > <i>Unlock Angular's change detection secrets!</i>
 
