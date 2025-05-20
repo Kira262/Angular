@@ -24,16 +24,16 @@
 - [🎓 Featured Course \& Resources](#-featured-course--resources)
 - [📚 Support \& Resources](#-support--resources)
 - [📦 Projects Overview](#-projects-overview)
-  - [ EasyTask](#-easytask)
-  - [ Investment Calculator](#-investment-calculator)
-  - [ CMP Dashboard](#-cmp-dashboard)
-  - [🔃 LifeCycle Explorer](#-lifecycle-explorer)
-  - [🏷️ Directives Playground](#️-directives-playground)
-  - [ Pipes Lab](#-pipes-lab)
-  - [🔗 Services Central](#-services-central)
-  - [⚡ ChangeDetection Mastery](#-changedetection-mastery)
-  - [ RxJS Playground](#-rxjs-playground)
-  - [ Place Picker](#-place-picker)
+  - [EasyTask](#-easytask)
+  - [Investment Calculator](#-investment-calculator)
+  - [CMP Dashboard](#-cmp-dashboard)
+  - [LifeCycle Explorer](#-lifecycle-explorer)
+  - [Directives Playground](#️-directives-playground)
+  - [Pipes Lab](#-pipes-lab)
+  - [Services Central](#-services-central)
+  - [ChangeDetection Mastery](#-changedetection-mastery)
+  - [RxJS Playground](#-rxjs-playground)
+  - [Place Picker](#-place-picker)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 
@@ -175,7 +175,7 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Intermediate/Forms/README.md"><img src="Intermediate/Forms/public/forms-workshop-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F43F5E"><b><a href="./Intermediate/Forms/README.md">Forms Workshop</a></b></span>
+### <a href="./Intermediate/Forms/README.md"><img src="Intermediate/Forms/public/logo.jpg" width="32" style="vertical-align:middle;"/></a> <span style="color:#F43F5E"><b><a href="./Intermediate/Forms/README.md">Forms Workshop</a></b></span>
 
 > <i>Master Angular forms with interactive examples</i>
 

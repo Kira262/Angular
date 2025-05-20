@@ -1,6 +1,6 @@
 [⬅️ Back to Intermediate workspace](../README.md)
 
-<h1 align="center">📝 <span style="color:#F59E42">Forms Workshop</span></h1>
+<h1 align="center"><img src="./public/logo.jpg" width="32" style="vertical-align:middle;"/><span style="color:#F59E42">Forms Workshop</span></h1>
 
 <p align="center">
   <b>📝 Master Angular forms with interactive examples and exercises.</b>
