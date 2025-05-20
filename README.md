@@ -71,6 +71,7 @@
 | [Forms Workshop](Intermediate/Forms)             | Master Angular forms with interactive examples |
 | [Pipes Lab](Intermediate/Pipes)                  | Transform and format data with custom pipes    |
 | [Services Central](Intermediate/Services)        | Angular services, DI, and data sharing         |
+| [EasyTask (Routing)](Intermediate/EasyTask(Routing)) | Task manager with Angular routing and modular navigation |
 
 ---
 
@@ -202,6 +203,18 @@ Take your Angular skills to the next level with this highly recommended course a
 - 🔗 Reusable Angular services
 - 🔄 Dependency injection best practices
 - 📡 HTTP & API integration demos
+
+---
+
+### <a href="./Intermediate/EasyTask(Routing)/README.md"><img src="Intermediate/EasyTask(Routing)/public/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#7C3AED"><b><a href="./Intermediate/EasyTask(Routing)">EasyTask (Routing)</a></b></span>
+
+> <i>Task manager with Angular routing and modular navigation</i>
+
+- 📝 Create, view, and manage tasks
+- 👤 User management with avatars
+- 🗂️ Modular routing for users and tasks
+- 🧭 Not-found route and navigation
+- ✨ Modern UI & reusable components
 
 ---
 

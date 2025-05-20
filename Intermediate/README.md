@@ -34,6 +34,7 @@
 - <img src="Forms/public/logo.jpg" width="24" style="vertical-align:middle; border-radius: 50%;"/> [Forms Workshop](./Forms): Master Angular forms with interactive examples
 - <img src="Pipes/public/temp-icon.png" width="24" style="vertical-align:middle;"/> [Pipes Lab](./Pipes): Transform and format data with custom pipes
 - 🔗 [Services Central](./Services): Angular services, DI, and data sharing
+- <img src="EasyTask(Routing)/public/task-management-logo.png" width="24" style="vertical-align:middle;"/> [EasyTask (Routing)](<./EasyTask(Routing)>): Task manager with Angular routing
 
 ---
 
