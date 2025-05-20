@@ -23,17 +23,18 @@
 - [🚀 Getting Started](#-getting-started)
 - [🎓 Featured Course \& Resources](#-featured-course--resources)
 - [📚 Support \& Resources](#-support--resources)
-- [📦 Projects Overview](#-projects-overview)
-  - [EasyTask](#-easytask)
-  - [Investment Calculator](#-investment-calculator)
-  - [CMP Dashboard](#-cmp-dashboard)
-  - [LifeCycle Explorer](#-lifecycle-explorer)
-  - [Directives Playground](#️-directives-playground)
-  - [Pipes Lab](#-pipes-lab)
-  - [Services Central](#-services-central)
-  - [ChangeDetection Mastery](#-changedetection-mastery)
-  - [RxJS Playground](#-rxjs-playground)
-  - [Place Picker](#-place-picker)
+- [📦 Projects Overview](#-projects-overview) -[EasyTask](#easy-task)
+  - [Investment Calculator](#investment-calculator)
+  - [CMP Dashboard](#cmp-dashboard)
+  - [LifeCycle Explorer](#lifecycle-explorer)
+  - [Directives Playground](#directives-playground)
+  - [Forms Workshop](#forms-workshop)
+  - [Pipes Lab](#pipes-lab)
+  - [Services Central](#services-central)
+  - [EasyTask (Routing)](#easy-task-routing)
+  - [ChangeDetection Mastery](#changedetection-mastery)
+  - [RxJS Playground](#rxjs-playground)
+  - [Place Picker](#place-picker)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 
@@ -63,15 +64,15 @@
 
 ### 🟡 [Intermediate Projects](./Intermediate/)
 
-| Project                                          | Description                                    |
-| ------------------------------------------------ | ---------------------------------------------- |
-| [CMP Dashboard](Intermediate/Components)         | Monitor servers, tickets, and traffic          |
-| [LifeCycle Explorer](Intermediate/LifeCycle)     | Explore Angular component lifecycle hooks      |
-| [Directives Playground](Intermediate/Directives) | Master custom Angular directives               |
-| [Forms Workshop](Intermediate/Forms)             | Master Angular forms with interactive examples |
-| [Pipes Lab](Intermediate/Pipes)                  | Transform and format data with custom pipes    |
-| [Services Central](Intermediate/Services)        | Angular services, DI, and data sharing         |
-| [EasyTask (Routing)](Intermediate/EasyTask(Routing)) | Task manager with Angular routing and modular navigation |
+| Project                                                | Description                                              |
+| ------------------------------------------------------ | -------------------------------------------------------- |
+| [CMP Dashboard](Intermediate/Components)               | Monitor servers, tickets, and traffic                    |
+| [LifeCycle Explorer](Intermediate/LifeCycle)           | Explore Angular component lifecycle hooks                |
+| [Directives Playground](Intermediate/Directives)       | Master custom Angular directives                         |
+| [Forms Workshop](Intermediate/Forms)                   | Master Angular forms with interactive examples           |
+| [Pipes Lab](Intermediate/Pipes)                        | Transform and format data with custom pipes              |
+| [Services Central](Intermediate/Services)              | Angular services, DI, and data sharing                   |
+| [EasyTask (Routing)](<Intermediate/EasyTask(Routing)>) | Task manager with Angular routing and modular navigation |
 
 ---
 
