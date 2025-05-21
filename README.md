@@ -31,7 +31,7 @@
   - [Forms Workshop](#forms-workshop)
   - [Pipes Lab](#pipes-lab)
   - [Services Central](#-services-central)
-  - [EasyTask (Deployment)](#easytask-deployment)
+  - [EasyTask (Deployment)](#easytaskdeployment)
   - [Lazy Loading & Defer Demo](#lazy-loading--defer)
   - [ChangeDetection Mastery](#️-changedetection-mastery)
   - [RxJS Playground](#rxjs-playground)
