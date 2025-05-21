@@ -265,8 +265,10 @@ ng lint
 - [**RxJS Playground**](Advanced/RxJs) - Reactive programming
 - [**ChangeDetection Mastery**](Advanced/ChangeDetection) - Performance optimization
 
+## ❓ Troubleshooting Common Issues
+
 <details>
-<summary><b>❓ Troubleshooting Common Issues</b></summary>
+<summary>Expand for common fixes</summary>
 
 ### Node.js Version Conflicts
 
