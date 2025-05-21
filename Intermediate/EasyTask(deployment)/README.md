@@ -38,10 +38,19 @@
 ---
 
 ## 📁 Project Structure
+
 - `src/` – Angular app source code
 - `public/` – Static assets (logos, user images)
 - `server.ts` – Express SSR server
 - `user-routes.txt` – Example user routes
+
+---
+
+## ℹ️ For More Information
+
+- [Firebase Console ](https://console.firebase.google.com/)
+- [Angular Deployment](https://angular.dev/tools/cli/deployment)
+- [Angular Universal (SSR)](https://angular.dev/guide/ssr)
 
 ---
 
