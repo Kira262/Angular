@@ -66,7 +66,8 @@ npm install -g @angular/cli
 
 ## 📦 Projects Overview
 
-### 🟢 Beginner Projects
+<details>
+<summary>🟢 <b>Beginner Projects</b></summary>
 
 #### <a href="./Beginner/EasyTask/README.md"><img src="Beginner/EasyTask/src/assets/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#7C3AED"><b><a href="./Beginner/EasyTask">EasyTask</a></b></span>
 
@@ -84,7 +85,10 @@ npm install -g @angular/cli
 - ⚡ Instant calculation of returns
 - 📊 Beautiful, interactive results
 
-### 🟡 Intermediate Projects
+</details>
+
+<details>
+<summary>🟡 <b>Intermediate Projects</b></summary>
 
 #### <a href="./Intermediate/Components/README.md"><img src="Intermediate/Components/public/logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#3B82F6"><b><a href="./Intermediate/Components/README.md">CMP Dashboard</a></b></span>
 
@@ -152,7 +156,10 @@ npm install -g @angular/cli
 - 🖼️ Demo: Welcome screen & offer preview
 - 🧩 Modular, modern app structure
 
-### 🔴 Advanced Projects
+</details>
+
+<details>
+<summary>🔴 <b>Advanced Projects</b></summary>
 
 #### <a href="./Advanced/ChangeDetection/README.md">🏷️</a> <span style="color:#A21CAF"><b><a href="./Advanced/ChangeDetection/README.md">ChangeDetection Mastery</a></b></span>
 
@@ -179,7 +186,7 @@ npm install -g @angular/cli
 - ⚡ Error handling and loading states
 - 📡 Real-world API demo
 
----
+</details>
 
 ## 🔍 Quick Reference Card
 
