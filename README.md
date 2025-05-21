@@ -32,7 +32,7 @@
   - [Pipes Lab](#pipes-lab)
   - [Services Central](#-services-central)
   - [EasyTask (Deployment)](#easytask-deployment)
-  - [Lazy Loading & Defer Demo](#lazy-loading--defer-demo)
+  - [Lazy Loading & Defer Demo](#lazy-loading--defer)
   - [ChangeDetection Mastery](#️-changedetection-mastery)
   - [RxJS Playground](#rxjs-playground)
   - [Place Picker](#-place-picker)
@@ -209,7 +209,7 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Intermediate/EasyTask(deployment)/README.md"><img src="Intermediate/EasyTask(deployment)/public/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F59E42"><b><a href="./Intermediate/EasyTask(deployment)/README.md">EasyTask (Deployment)</a></b></span>
+### <a href="./Intermediate/EasyTask(deployment)/README.md"><img src="Intermediate/EasyTask(deployment)/public/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F59E42"><b><a href="./Intermediate/EasyTask(deployment)/README.md">EasyTask(Deployment)</a></b></span>
 
 > <i>Manage tasks with user-based routing and deployment-ready SSR support</i>
 
@@ -220,7 +220,7 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Intermediate/LazyLoading/README.md"><img src="Intermediate/LazyLoading/public/angular-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#2563EB"><b><a href="./Intermediate/LazyLoading/README.md">Lazy Loading & Defer Demo</a></b></span>
+### <a href="./Intermediate/LazyLoading/README.md"><img src="Intermediate/LazyLoading/public/angular-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#2563EB"><b><a href="./Intermediate/LazyLoading/README.md">Lazy Loading & Defer</a></b></span>
 
 > <i>Explore Angular's lazy loading and <code>defer</code> features for blazing-fast apps</i>
 
