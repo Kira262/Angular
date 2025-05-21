@@ -35,6 +35,8 @@
 - <img src="Pipes/public/temp-icon.png" width="24" style="vertical-align:middle;"/> [Pipes Lab](./Pipes): Transform and format data with custom pipes
 - 🔗 [Services Central](./Services): Angular services, DI, and data sharing
 - <img src="EasyTask(Routing)/public/task-management-logo.png" width="24" style="vertical-align:middle;"/> [EasyTask (Routing)](<./EasyTask(Routing)>): Task manager with Angular routing
+- <img src="EasyTask(deployment)/public/task-management-logo.png" width="24" style="vertical-align:middle;"/> [EasyTask (Deployment)](./EasyTask(deployment)): Task manager with user-based routing & SSR deployment
+- <img src="LazyLoading/public/angular-logo.png" width="24" style="vertical-align:middle;"/> [Lazy Loading & Defer Demo](./LazyLoading): Explore Angular's lazy loading and defer features
 
 ---
 

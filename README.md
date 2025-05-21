@@ -31,7 +31,8 @@
   - [Forms Workshop](#forms-workshop)
   - [Pipes Lab](#pipes-lab)
   - [Services Central](#-services-central)
-  - [EasyTask (Routing)](#easytask-routing)
+  - [EasyTask (Deployment)](#easytask-deployment)
+  - [Lazy Loading & Defer Demo](#lazy-loading--defer-demo)
   - [ChangeDetection Mastery](#️-changedetection-mastery)
   - [RxJS Playground](#rxjs-playground)
   - [Place Picker](#-place-picker)
@@ -64,15 +65,16 @@
 
 ### 🟡 [Intermediate Projects](./Intermediate/)
 
-| Project                                                | Description                                              |
-| ------------------------------------------------------ | -------------------------------------------------------- |
-| [CMP Dashboard](Intermediate/Components)               | Monitor servers, tickets, and traffic                    |
-| [LifeCycle Explorer](Intermediate/LifeCycle)           | Explore Angular component lifecycle hooks                |
-| [Directives Playground](Intermediate/Directives)       | Master custom Angular directives                         |
-| [Forms Workshop](Intermediate/Forms)                   | Master Angular forms with interactive examples           |
-| [Pipes Lab](Intermediate/Pipes)                        | Transform and format data with custom pipes              |
-| [Services Central](Intermediate/Services)              | Angular services, DI, and data sharing                   |
-| [EasyTask (Routing)](<Intermediate/EasyTask(Routing)>) | Task manager with Angular routing and modular navigation |
+| Project                                                      | Description                                           |
+| ------------------------------------------------------------ | ----------------------------------------------------- |
+| [CMP Dashboard](Intermediate/Components)                     | Monitor servers, tickets, and traffic                 |
+| [LifeCycle Explorer](Intermediate/LifeCycle)                 | Explore Angular component lifecycle hooks             |
+| [Directives Playground](Intermediate/Directives)             | Master custom Angular directives                      |
+| [Forms Workshop](Intermediate/Forms)                         | Master Angular forms with interactive examples        |
+| [Pipes Lab](Intermediate/Pipes)                              | Transform and format data with custom pipes           |
+| [Services Central](Intermediate/Services)                    | Angular services, DI, and data sharing                |
+| [EasyTask (Deployment)](<Intermediate/EasyTask(deployment)>) | Task manager with user-based routing & SSR deployment |
+| [Lazy Loading & Defer Demo](Intermediate/LazyLoading)        | Explore Angular's lazy loading and defer features     |
 
 ---
 
@@ -207,15 +209,25 @@ Take your Angular skills to the next level with this highly recommended course a
 
 ---
 
-### <a href="./Intermediate/EasyTask(Routing)/README.md"><img src="Intermediate/EasyTask(Routing)/public/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#7C3AED"><b><a href="./Intermediate/EasyTask(Routing)">EasyTask (Routing)</a></b></span>
+### <a href="./Intermediate/EasyTask(deployment)/README.md"><img src="Intermediate/EasyTask(deployment)/public/task-management-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#F59E42"><b><a href="./Intermediate/EasyTask(deployment)/README.md">EasyTask (Deployment)</a></b></span>
 
-> <i>Task manager with Angular routing and modular navigation</i>
+> <i>Manage tasks with user-based routing and deployment-ready SSR support</i>
 
-- 📝 Create, view, and manage tasks
-- 👤 User management with avatars
-- 🗂️ Modular routing for users and tasks
-- 🧭 Not-found route and navigation
-- ✨ Modern UI & reusable components
+- 🗂️ User-based task management (dynamic routes)
+- 🔀 Angular routing & navigation
+- 🚀 Server-side rendering (SSR) for deployment
+- 👤 Modern UI with avatars
+
+---
+
+### <a href="./Intermediate/LazyLoading/README.md"><img src="Intermediate/LazyLoading/public/angular-logo.png" width="32" style="vertical-align:middle;"/></a> <span style="color:#2563EB"><b><a href="./Intermediate/LazyLoading/README.md">Lazy Loading & Defer Demo</a></b></span>
+
+> <i>Explore Angular's lazy loading and <code>defer</code> features for blazing-fast apps</i>
+
+- ⏳ Angular <code>defer</code> for on-demand component loading
+- ⚡ Optimized performance and user experience
+- 🖼️ Demo: Welcome screen & offer preview
+- 🧩 Modular, modern app structure
 
 ---
 
