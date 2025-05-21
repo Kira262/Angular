@@ -17,6 +17,9 @@
 - [🛠️ Prerequisites](#️-prerequisites)
 - [🚀 Getting Started](#-getting-started)
 - [📦 Projects Overview](#-projects-overview)
+- [🔍 Quick Reference Card](#-quick-reference-card)
+- [🧠 Key Concepts by Project](#-key-concepts-by-project)
+- [💻 Development Commands](#-development-commands)
 - [🎓 Recommended Learning Path](#-recommended-learning-path)
 - [❓ Troubleshooting Common Issues](#-troubleshooting-common-issues)
 - [🎓 Featured Course & Resources](#-featured-course--resources)
@@ -176,20 +179,87 @@ npm install -g @angular/cli
 - ⚡ Error handling and loading states
 - 📡 Real-world API demo
 
+---
+
+## 🔍 Quick Reference Card
+
+| Concept            | Project Example                                             | Difficulty |
+| ------------------ | ----------------------------------------------------------- | ---------- |
+| Components         | [EasyTask](Beginner/EasyTask)                               | 🟢         |
+| Input/Output       | [Investment Calculator](Beginner/InvestmentCalculator)      | 🟢         |
+| Services & DI      | [Services Central](Intermediate/Services)                   | 🟡         |
+| Forms & Validation | [Forms Workshop](Intermediate/Forms)                        | 🟡         |
+| Directives         | [Directives Playground](Intermediate/Directives)            | 🟡         |
+| Routing            | [EasyTask(Deployment)](<Intermediate/EasyTask(deployment)>) | 🟡         |
+| Pipes              | [Pipes Lab](Intermediate/Pipes)                             | 🟡         |
+| Lifecycle          | [LifeCycle Explorer](Intermediate/LifeCycle)                | 🟡         |
+| Lazy Loading/Defer | [Lazy Loading & Defer](Intermediate/LazyLoading)            | 🟡         |
+| Change Detection   | [ChangeDetection Mastery](Advanced/ChangeDetection)         | 🔴         |
+| RxJS/Observables   | [RxJS Playground](Advanced/RxJs)                            | 🔴         |
+| HTTP/API           | [Place Picker](Advanced/PlacePicker)                        | 🔴         |
+
+---
+
+## 🧠 Key Concepts by Project
+
+<details>
+<summary>Expand for a reverse lookup by Angular concept</summary>
+
+- **Component Communication**: [EasyTask](Beginner/EasyTask), [CMP Dashboard](Intermediate/Components)
+- **Forms & Validation**: [Forms Workshop](Intermediate/Forms), [Investment Calculator](Beginner/InvestmentCalculator)
+- **Services & Dependency Injection**: [Services Central](Intermediate/Services), [Place Picker](Advanced/PlacePicker)
+- **Routing & Navigation**: [EasyTask(Deployment)](<Intermediate/EasyTask(deployment)>), [Lazy Loading & Defer](Intermediate/LazyLoading)
+- **HTTP & REST APIs**: [Place Picker](Advanced/PlacePicker), [Services Central](Intermediate/Services)
+- **Directives**: [Directives Playground](Intermediate/Directives)
+- **Pipes**: [Pipes Lab](Intermediate/Pipes)
+- **Lifecycle Hooks**: [LifeCycle Explorer](Intermediate/LifeCycle)
+- **Observables & RxJS**: [RxJS Playground](Advanced/RxJs), [Services Central](Intermediate/Services)
+- **Performance Optimization**: [ChangeDetection Mastery](Advanced/ChangeDetection), [Lazy Loading & Defer](Intermediate/LazyLoading)
+</details>
+
+---
+
+## 💻 Development Commands
+
+```bash
+# Generate a new component
+ng generate component my-component
+
+# Generate a new service
+ng generate service my-service
+
+# Build for production
+ng build --prod
+
+# Run the development server
+ng serve
+
+# Run tests
+ng test
+
+# Run linting
+ng lint
+```
+
+---
+
 ## 🎓 Recommended Learning Path
 
 > **New to Angular?** Follow this structured path to build your skills progressively
 
 ### 1️⃣ First Steps
+
 - [**EasyTask**](Beginner/EasyTask) - Components and basic binding
 - [**Investment Calculator**](Beginner/InvestmentCalculator) - Input/output and event handling
 
 ### 2️⃣ Level Up
+
 - [**CMP Dashboard**](Intermediate/Components) - Component composition
 - [**LifeCycle Explorer**](Intermediate/LifeCycle) - Component lifecycle hooks
 - [**Directives Playground**](Intermediate/Directives) - Angular directives
 
 ### 3️⃣ Become an Expert
+
 - [**Forms Workshop**](Intermediate/Forms) - Form handling
 - [**Services Central**](Intermediate/Services) - Dependency injection
 - [**RxJS Playground**](Advanced/RxJs) - Reactive programming
@@ -199,6 +269,7 @@ npm install -g @angular/cli
 <summary><b>❓ Troubleshooting Common Issues</b></summary>
 
 ### Node.js Version Conflicts
+
 ```bash
 # Check your Node.js version
 node -v
@@ -207,7 +278,9 @@ nvm use 18
 ```
 
 ### Angular CLI Commands Not Working
+
 Ensure Angular CLI is properly installed globally:
+
 ```bash
 npm uninstall -g @angular/cli
 npm cache clean --force
@@ -215,7 +288,9 @@ npm install -g @angular/cli
 ```
 
 ### Project Won't Start
+
 If ng serve fails:
+
 - Check for port conflicts (default is 4200)
 - Try clearing npm cache: `npm cache clean --force`
 - Delete node_modules and reinstall: `rm -rf node_modules && npm install`
