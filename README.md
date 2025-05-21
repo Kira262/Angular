@@ -32,7 +32,7 @@
   - [Pipes Lab](#pipes-lab)
   - [Services Central](#-services-central)
   - [EasyTask (Deployment)](#easytaskdeployment)
-  - [Lazy Loading & Defer Demo](#lazy-loading--defer)
+  - [Lazy Loading & Defer](#lazy-loading--defer)
   - [ChangeDetection Mastery](#️-changedetection-mastery)
   - [RxJS Playground](#rxjs-playground)
   - [Place Picker](#-place-picker)
@@ -74,7 +74,7 @@
 | [Pipes Lab](Intermediate/Pipes)                              | Transform and format data with custom pipes           |
 | [Services Central](Intermediate/Services)                    | Angular services, DI, and data sharing                |
 | [EasyTask (Deployment)](<Intermediate/EasyTask(deployment)>) | Task manager with user-based routing & SSR deployment |
-| [Lazy Loading & Defer Demo](Intermediate/LazyLoading)        | Explore Angular's lazy loading and defer features     |
+| [Lazy Loading & Defer](Intermediate/LazyLoading)             | Explore Angular's lazy loading and defer features     |
 
 ---
 
