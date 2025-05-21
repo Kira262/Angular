@@ -10,30 +10,35 @@
 
 ## 🚀 Quick Start
 
-1. **Install dependencies:**
+1. **Install dependencies**
    ```sh
    npm install
    ```
-2. **Run the app:**
+2. **Start the app**
    ```sh
    npm start
    ```
-   or
+   or for live reload:
    ```sh
    ng serve
    ```
-3. **Open in browser:**
+3. **Open in your browser:**  
    [http://localhost:4200](http://localhost:4200)
 
 ---
 
-## ✨ Features
+## ✨ Project Highlights
 
-- User-based task management (see `/users/u1/tasks`, `/users/u2/tasks`)
-- Angular routing with dynamic user/task views
-- Server-side rendering (SSR) ready for deployment
-- Modern UI with avatars (see `public/users/`)
-- Easy deployment with Express server (`server.ts`)
+- **User-based task management:**  
+  Visit routes like `/users/u1/tasks` or `/users/u2/tasks` for user-specific tasks
+- **Dynamic Angular routing:**  
+  Clean, dynamic URLs for users and tasks
+- **Server-side rendering (SSR):**  
+  SSR-ready for fast, SEO-friendly deployment
+- **Modern UI:**  
+  User avatars in `public/users/`
+- **Easy deployment:**  
+  Express server (`server.ts`) for SSR, ready for Firebase Hosting
 
 ---
 
@@ -46,9 +51,37 @@
 
 ---
 
-## ℹ️ For More Information
+## 🌐 Deploy to Firebase Hosting (with SSR)
 
-- [Firebase Console ](https://console.firebase.google.com/)
+1. **Install Firebase CLI globally (if needed):**
+   ```sh
+   npm install -g firebase-tools
+   ```
+2. **Login to Firebase:**
+   ```sh
+   firebase login
+   ```
+3. **Initialize Firebase (in your project folder):**
+   ```sh
+   firebase init
+   ```
+   - Select **Hosting** and **Functions** (for SSR)
+   - Set `dist/` or your SSR output as the public directory
+   - Configure as a single-page app if prompted
+4. **Build Angular Universal app:**
+   ```sh
+   npm run build:ssr
+   ```
+5. **Deploy:**
+   ```sh
+   firebase deploy
+   ```
+
+**Resources:**
+
+- [Firebase Console](https://console.firebase.google.com/)
+- [Firebase Hosting Docs](https://firebase.google.com/docs/hosting)
+- [Angular SSR Deployment Guide](https://angular.io/guide/universal-deployment)
 - [Angular Deployment](https://angular.dev/tools/cli/deployment)
 - [Angular Universal (SSR)](https://angular.dev/guide/ssr)
 
