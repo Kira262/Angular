@@ -87,6 +87,18 @@
 
 ---
 
+## 🖥️ SSR & SSG Deployment Example
+
+When deploying Angular applications that need to run code on the server (i.e., SSR apps or SSG + SSR apps), you need a hosting provider that allows you to do that. A static host (which only serves static files but doesn't run any code on the server) does **NOT** suffice.
+
+**Firebase App Hosting** is a great choice for deploying Angular SSR or SSG+SSR applications:  
+https://firebase.google.com/docs/app-hosting
+
+Firebase, like Angular, is developed by Google. Therefore, deploying an Angular app via Firebase App Hosting is relatively straightforward. You can follow the steps outlined in the official documentation:  
+https://firebase.google.com/docs/app-hosting/get-started
+
+---
+
 <p align="center">
   <b>🟧 Practice Angular routing & deployment in a real-world scenario!</b>
 </p>
