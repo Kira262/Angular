@@ -22,7 +22,7 @@
 - [🚀 Getting Started](#-getting-started)
 - [🎓 Featured Course \& Resources](#-featured-course--resources)
 - [📚 Support \& Resources](#-support--resources)
-- [📦 Projects Overview](#projects-overview)
+- [📦 Projects Overview](#-projects-overview)
   - [EasyTask](#easytask)
   - [Investment Calculator](#-investment-calculator)
   - [CMP Dashboard](#cmp-dashboard)
