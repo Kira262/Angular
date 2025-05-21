@@ -14,7 +14,6 @@
 
 ## 📑 Table of Contents
 
-- [📑 Table of Contents](#-table-of-contents)
 - [✨ Workspace Features](#-workspace-features)
 - [🗂️ Project Directory](#️-project-directory)
   - [🟢 Beginner Projects](#-beginner-projects)
